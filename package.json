@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index",
-    "toJson": "node mdToJson"
+    "test": "jest",
+    "start": "node mdToJson"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "md-2-json": "^1.0.6"
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
   }
 }

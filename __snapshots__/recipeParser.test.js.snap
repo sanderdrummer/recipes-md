@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`recipeParser handles missing description 1`] = `
+Object {
+  "description": "",
+  "ingredients": Array [
+    "200g Mehl",
+    "1EL ol",
+    "0.125l Bier (helles)",
+  ],
+  "title": "Zutaten",
+}
+`;
+
+exports[`recipeParser handles missing ingredients 1`] = `
+Object {
+  "description": "Mehl, Öl, Bier und Milch zu einem glatten Teig verrühren.
+Die Eier und den halben TL Salz untermischen.
+Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
+  "ingredients": Array [],
+  "title": "Bierteig",
+}
+`;
+
+exports[`recipeParser handles missing title 1`] = `
+Object {
+  "description": "Mehl, Öl, Bier und Milch zu einem glatten Teig verrühren.
+Die Eier und den halben TL Salz untermischen.
+Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
+  "ingredients": Array [
+    "200g Mehl",
+    "1EL ol",
+    "0.125l Bier (helles)",
+  ],
+  "title": "Zutaten",
+}
+`;
+
+exports[`recipeParser should parse a valid file 1`] = `
+Object {
+  "description": "Mehl, Öl, Bier und Milch zu einem glatten Teig verrühren.
+Die Eier und den halben TL Salz untermischen.
+Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
+  "ingredients": Array [
+    "200g Mehl",
+    "1EL ol",
+    "0.125l Bier (helles)",
+  ],
+  "title": "Bierteig",
+}
+`;
