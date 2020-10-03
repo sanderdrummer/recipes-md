@@ -2,17 +2,17 @@
 
 ## Zutaten
 
-- 125 g	Quinoa
-- 250 ml	Gemüsebrühe
-- 2 m.-große	Zucchini
-- 1 Handvoll	Walnüsse
+- 125 g Quinoa
+- 250 ml Gemüsebrühe
+- 2 große Zucchini
+- 1Handvoll Walnüsse
 - Olivenöl
-- 1 TL	Honig
-- 8	Oliven schwarz
-- 4 EL	Frischkäse
+- 1TL Honig
+- 8Oliven schwarz
+- 4EL Frischkäse
 - Petersilie
 - Salz und Pfeffer
-- 4 EL	Ziegenkäse gerieben
+- 4 EL Ziegenkäse gerieben
 
 ## Zubereitung
 
