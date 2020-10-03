@@ -3,17 +3,10 @@
 ## Zutaten
 
 - 400 g Champignons (à 300 g: im Kühlregal) 200 g Speck- oder Schinken
-- 
 - 2 Pck. Gnocchi zum Braten
-- 
-- würfel
-- 
 - 2 EL Pflanzenöl
-- 
 - 200 g Schlagsahne
-- 
 - 100 g geriebener Bergkäse
-- 
 - 1-2 Lauchzwiebeln
 
 ## Zubereitung
