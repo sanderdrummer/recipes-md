@@ -9,6 +9,7 @@
 - 3TL Backpulver
 - 1Pkg Vanillezucker
 - Schale von 2 Zitronen
+- Saft von einer Zitrone
 - 200g Puderzucker
 
 ## Zubereitung
