@@ -11,26 +11,26 @@
 - 15 g Agavendicksaft, dunkel
 - 1 Msp. Sambal Oelek
 - 10 g Paprikagewürz, edelsüß
-- TL Paprikagewürz, rosenscharf - ½ TL ca. 2 g
+- TL Paprikagewürz, rosenscharf
 - 1 Msp. Pfeffer, weiß
 - 1 Msp. Salz/Ursalz
-- 500 ml Wasser - heiß
-- 250 g Sojafleisch, Würfel -
-- 175 g Zwiebel/n - vorbereitet gewogen
-- 200 g Paprikaschote/n, rot - vorbereitet gewogen
-- 2 Stück Knoblauchzehe/n - unvorbereitet gewogen
-- 3 EL Olivenöl - 1 EL ca. 10 g
-- 3 EL Tomatenmark - 1 EL ca. 25 g
-- 1 TL Paprikagewürz, edelsüß - 1 TL ca. 5 g
-- TL Paprikagewürz, rosenscharf - ½ TL ca. 2 g
-- 1 TL Majoran, getrocknet und gerebelt - 1 TL ca. 1 g
-- 1 TL Thymian, getrocknet und gerebelt - 1 TL ca. 1 g
-- 6 EL Weizenmehl, Type 405 - 1 EL ca. 10 g
-- 500 ml veganer Rotwein, trocken - alternativ Kirschsaft
+- 500 ml Wasser
+- 250 g Sojafleisch, Würfel
+- 175 g Zwiebel/n
+- 200 g Paprikaschote/n, rot
+- 2 Stück Knoblauchzehe/n
+- 3 EL Olivenöl
+- 3 EL Tomatenmark
+- 1 TL Paprikagewürz, edelsüß
+- TL Paprikagewürz, rosenscharf
+- 1 TL Majoran, getrocknet und gerebelt
+- 1 TL Thymian, getrocknet und gerebelt
+- 6 EL Weizenmehl, Type 405
+- 500 ml veganer Rotwein, trocken
 - 1200 ml Wasser
-- 1 Prise Rohrzucker, braun - oder jede andere Sorte
-- Salz/Ursalz - nach Belieben
-- Pfeffer, weiß - nach Belieben
+- 1 Prise Rohrzucker, braun
+- Salz/Ursalz
+- Pfeffer, weiß
 
 ## Zubereitung
 
