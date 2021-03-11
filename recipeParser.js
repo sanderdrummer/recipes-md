@@ -13,6 +13,13 @@ const getIngredients = (file = "") => {
     ? ingredients
         .filter((maybe) => Boolean(maybe))
         .map((ingredient) => ingredient.replace("-", "").trim())
+        .map((ingredient) => {
+          const [amount, ...name] = ingredient.split(" ");
+          return {
+            amount,
+            name: name.join(),
+          };
+        })
     : [];
 };
 

@@ -4,9 +4,18 @@ exports[`recipeParser handles missing description 1`] = `
 Object {
   "description": "",
   "ingredients": Array [
-    "200g Mehl",
-    "1EL ol",
-    "0.125l Bier (helles)",
+    Object {
+      "amount": "200g",
+      "name": "Mehl",
+    },
+    Object {
+      "amount": "1EL",
+      "name": "ol",
+    },
+    Object {
+      "amount": "0.125l",
+      "name": "Bier,(helles)",
+    },
   ],
   "title": "Zutaten",
 }
@@ -28,9 +37,18 @@ Object {
 Die Eier und den halben TL Salz untermischen.
 Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
   "ingredients": Array [
-    "200g Mehl",
-    "1EL ol",
-    "0.125l Bier (helles)",
+    Object {
+      "amount": "200g",
+      "name": "Mehl",
+    },
+    Object {
+      "amount": "1EL",
+      "name": "ol",
+    },
+    Object {
+      "amount": "0.125l",
+      "name": "Bier,(helles)",
+    },
   ],
   "title": "Zutaten",
 }
@@ -42,9 +60,18 @@ Object {
 Die Eier und den halben TL Salz untermischen.
 Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
   "ingredients": Array [
-    "200g Mehl",
-    "1EL ol",
-    "0.125l Bier (helles)",
+    Object {
+      "amount": "200g",
+      "name": "Mehl",
+    },
+    Object {
+      "amount": "1EL",
+      "name": "ol",
+    },
+    Object {
+      "amount": "0.125l",
+      "name": "Bier,(helles)",
+    },
   ],
   "title": "Bierteig",
 }
