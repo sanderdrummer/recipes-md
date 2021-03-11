@@ -3,7 +3,7 @@
 ## Zutaten
 
 - 500g Makkaroni
-- Frühlingszwiebeln
+- 1 Frühlingszwiebel
 - 1 Dose Tomaten
 - 250g Sauce Hollandaise
 - 150g geriebener Käse

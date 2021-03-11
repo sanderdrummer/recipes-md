@@ -3,16 +3,16 @@
 ## Zutaten
 
 - 1 Schalotte
-- 1 EL Butter
+- 1EL Butter
 - 4 Pfefferkörner
-- 1 TL Zucker
-- 1 EL Tomatenmark
-- 150 ml Rotwein trockener
-- 350 ml Rinderfond
+- 1TL Zucker
+- 1EL Tomatenmark
+- 150ml Rotwein trockener
+- 350ml Rinderfond
 - 1 Knoblauchzehe
 - 1 Thymianzweig frische
-- Salz und Pfeffer
-- Mehlbutter zum Binden
+- etwas Salz und Pfeffer
+- etwas Mehlbutter zum Binden
 
 ## Zubereitung
 

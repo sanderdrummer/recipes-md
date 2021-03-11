@@ -2,7 +2,7 @@
 
 ## Zutaten
 
-- 6Eier
+- 6 Eier
 - 350g Margarine
 - 350g Mehl
 - 350g Zucker

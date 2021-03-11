@@ -2,35 +2,35 @@
 
 ## Zutaten
 
-- 70 g Sojasauce
-- 40 g Worcestershiresauce
-- 50 g Tomatenmark
-- 30 g Balsamico
-- 20 g Olivenöl
-- 15 g Senf, mittelscharf
-- 15 g Agavendicksaft, dunkel
-- 1 Msp. Sambal Oelek
-- 10 g Paprikagewürz, edelsüß
-- TL Paprikagewürz, rosenscharf
-- 1 Msp. Pfeffer, weiß
-- 1 Msp. Salz/Ursalz
-- 500 ml Wasser
-- 250 g Sojafleisch, Würfel
-- 175 g Zwiebel/n
-- 200 g Paprikaschote/n, rot
-- 2 Stück Knoblauchzehe/n
-- 3 EL Olivenöl
-- 3 EL Tomatenmark
-- 1 TL Paprikagewürz, edelsüß
-- TL Paprikagewürz, rosenscharf
-- 1 TL Majoran, getrocknet und gerebelt
-- 1 TL Thymian, getrocknet und gerebelt
-- 6 EL Weizenmehl, Type 405
-- 500 ml veganer Rotwein, trocken
-- 1200 ml Wasser
-- 1 Prise Rohrzucker, braun
-- Salz/Ursalz
-- Pfeffer, weiß
+- 70g Sojasauce
+- 40g Worcestershiresauce
+- 50g Tomatenmark
+- 30g Balsamico
+- 20g Olivenöl
+- 15g Senf, mittelscharf
+- 15g Agavendicksaft, dunkel
+- 1Msp. Sambal Oelek
+- 10g Paprikagewürz, edelsüß
+- 1TL Paprikagewürz, rosenscharf
+- 1Msp. Pfeffer, weiß
+- 1Msp. Salz/Ursalz
+- 500ml Wasser
+- 250g Sojafleisch, Würfel
+- 175g Zwiebel/n
+- 200g Paprikaschote/n, rot
+- 2 Knoblauchzehe/n
+- 3EL Olivenöl
+- 3EL Tomatenmark
+- 1TL Paprikagewürz, edelsüß
+- 1TL Paprikagewürz, rosenscharf
+- 1TL Majoran, getrocknet und gerebelt
+- 1TL Thymian, getrocknet und gerebelt
+- 6EL Weizenmehl, Type 405
+- 500ml veganer Rotwein, trocken
+- 1200ml Wasser
+- 1Prise Rohrzucker, braun
+- etwas Salz/Ursalz
+- etwas Pfeffer, weiß
 
 ## Zubereitung
 

@@ -3,14 +3,14 @@
 ## Zutaten
 
 - 500g Mehl
-- 1 Prise Salz
-- 2 Pck. Vanillinzucker
+- 1Prise Salz
+- 2Pck. Vanillinzucker
 - 3 Eier
-- 300 g Butter zerlassene
+- 300g Butter zerlassene
 - 1 Würfel Hefe frische (ersatzweise 2 Pck. Trockenhefe)
-- 125 ml Milch lauwarme
-- 125 ml Wasser
-- 300 g Hagelzucker
+- 125ml Milch lauwarme
+- 125ml Wasser
+- 300g Hagelzucker
 
 ## Zubereitung
 

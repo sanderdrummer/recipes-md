@@ -2,13 +2,13 @@
 
 ## Zutaten
 
-- 150 g Mehl
-- 100 ml Milch
-- 200 ml Naturjoghurt
-- 2 EL Zucker
-- 1 Pck. Backpulver
+- 150g Mehl
+- 100ml Milch
+- 200ml Naturjoghurt
+- 2EL Zucker
+- 1Pck. Backpulver
 - 3 Eier
-- 1 Prise Salz
+- 1Prise Salz
 
 ## Zubereitung
 

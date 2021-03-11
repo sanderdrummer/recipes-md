@@ -2,15 +2,14 @@
 
 ## Zutaten
 
-- 500 g Weizenmehl Type 405
-- 300 ml Wasser
-- 2 TL Salz
-- 5 g Frischhefe
-- 1 Dose/n Pizzatomaten
-- Salz und Pfeffer
+- 500g Weizenmehl Type 405
+- 300ml Wasser
+- 2TL Salz
+- 5g Frischhefe
+- 1Dose/n Pizzatomaten
 - etwas Zucker
-- Basilikum
-- Oregano
+- etwas Basilikum
+- etwas Oregano
 
 ## Zubereitung
 

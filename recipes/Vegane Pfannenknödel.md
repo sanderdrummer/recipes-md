@@ -2,14 +2,14 @@
 
 ## Zutaten
 
-- 200 g Semmelbrösel/ Paniermehl
+- 200g Semmelbrösel/ Paniermehl
 - 2 kleine Zwiebeln
-- 15 g Petersilie
-- 400 ml pflanzliche Milch
-- 50 g Mehl
-- Salz & Pfeffer
-- eine Prise Muskat
-- Olivenöl
+- 15g Petersilie
+- 400ml pflanzliche Milch
+- 50g Mehl
+- etwas Salz & Pfeffer
+- 1Prise Muskat
+- etwas Olivenöl
 
 ## Zubereitung
 

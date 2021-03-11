@@ -3,12 +3,12 @@
 ## Zutaten
 
 - 1000 g Kartoffeln, festkochende
-- 1 Prise Salz
-- 1 Prise Pfeffer
-- 3 EL Mehl
-- 10 EL Öl
-- 1 Stk Zwiebel
-- Schmelzflocken
+- 1Prise Salz
+- 1Prise Pfeffer
+- 3EL Mehl
+- 10EL Öl
+- 1Stk Zwiebel
+- etwas Schmelzflocken
 
 ## Zubereitung
 

@@ -2,12 +2,12 @@
 
 ## Zutaten
 
-- 200 g Spargel grün
-- 200 g Linguine
-- 30 g Butter
-- 1 EL Olivenöl
-- 200 g Cherrytomaten
-- 30 g Parmesan
+- 200g Spargel grün
+- 200g Linguine
+- 30g Butter
+- 1EL Olivenöl
+- 200g Cherrytomaten
+- 30g Parmesan
 
 ## Zubereitung
 

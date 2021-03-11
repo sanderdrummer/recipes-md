@@ -3,8 +3,8 @@
 ## Zutaten
 
 - Frühlingszwiebeln
-- 150 g. rote Linsen
-- 400 ml Gemüsebrühe
+- 150g. rote Linsen
+- 400ml Gemüsebrühe
 - Speisestärke
 - 125g. Creme fraiche
 - 3 Tomaten

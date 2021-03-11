@@ -2,12 +2,12 @@
 
 ## Zutaten
 
-- 160 g Barilla Bavette
-- 70 g Zucchini
+- 160g Barilla Bavette
+- 70g Zucchini
 - 3 Eigelb
-- 60 g Pecorino
-- 40 g Milch
-- 20 ml Natives Olivenöl extra
+- 60g Pecorino
+- 40g Milch
+- 20ml Natives Olivenöl extra
 - Frische Minzblätter
 
 ## Zubereitung

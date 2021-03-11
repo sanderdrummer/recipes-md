@@ -6,14 +6,14 @@
 - 1 Kohlrabi
 - 150g Creme Fraice
 - 1 Porree
-- Senf
-- Minibrezeln
+- 1Tl Senf
+- etwas Minibrezeln
 - 1 Karotte
 - 500ml Gemüsebrühe
-- Stärke
-- Muskat
-- Streukäse
-- Petersilie
+- etwas Stärke
+- etwas Muskat
+- etwas Streukäse
+- etwas Petersilie
 
 ## Zubereitung
 

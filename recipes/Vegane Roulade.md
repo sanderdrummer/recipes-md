@@ -4,16 +4,16 @@
 
 - 150 g Soja Schnetzel
 - 1 Zwiebel
-- 3 EL Senf
-- 3 EL Senf
-- 1 Glas Gewürzgurken (daraus brauchen wir 6 Gewürzgurken und 50ml vom Gurkenwasser, also nicht wegschütten!)
-- 3 EL Mehl
-- 3 EL Tomatenmark
-- 200 ml veganer Rotwein
-- 600 ml Gemüsebrühe
+- 3EL Senf
+- 3EL Senf
+- 1Glas Gewürzgurken (daraus brauchen wir 6 Gewürzgurken und 50ml vom Gurkenwasser, also nicht wegschütten!)
+- 3EL Mehl
+- 3EL Tomatenmark
+- 200ml veganer Rotwein
+- 600ml Gemüsebrühe
 - 2 Nelken
 - 2 Lorbeerblätter
-- Salz&Pfeffer
+- etwas Salz&Pfeffer
 
 ## Zubereitung
 

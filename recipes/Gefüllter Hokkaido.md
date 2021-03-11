@@ -2,15 +2,15 @@
 
 ## Zutaten
 
-- 1 g Hokkaidokürbis(se) ca. 650 g
-- 200 g Quinoa
+- 1g Hokkaidokürbis(se) ca. 650 g
+- 200g Quinoa
 - 1 Stange/n Lauch
 - 1 Tomate(n)
 - 1 Bund Petersilie gehackte
 - 2 Zehe/n Knoblauch durchgepresst
-- 1 EL Tomatenmark
-- 2 EL Crème fraîche
-- 100 g Käse
+- 1EL Tomatenmark
+- 2EL Crème fraîche
+- 100g Käse
 - Cayennepfeffer
 
 ## Zubereitung

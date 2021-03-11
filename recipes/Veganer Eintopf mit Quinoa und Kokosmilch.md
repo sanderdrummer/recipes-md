@@ -2,22 +2,22 @@
 
 ## Zutaten
 
-- 150 g Quinoa
-- 250 ml Wasser
+- 150g Quinoa
+- 250ml Wasser
 - 1 Zucchini
 - 1 Paprikaschote(n), rot
 - 1 Knoblauchzehe(n)
-- 2 EL Röstzwiebeln
-- 1 EL Paprikapulver, edelsüß
-- 1 EL Paprikapulver, rosenscharf
-- 2 EL Tomatenmark
-- 200 ml Kokosmilch
-- 2 EL Ajvar
-- 150 g Cocktailtomaten
-- 5 Stück(e) Tomate(n), getrocknete
-- Salz und Pfeffer
-- Gemüsebrühe, gekörnte
-- Oregano
+- 2EL Röstzwiebeln
+- 1EL Paprikapulver, edelsüß
+- 1EL Paprikapulver, rosenscharf
+- 2EL Tomatenmark
+- 200ml Kokosmilch
+- 2EL Ajvar
+- 150g Cocktailtomaten
+- 5 Tomate(n), getrocknete
+- etwas Salz und Pfeffer
+- etwas Gemüsebrühe, gekörnte
+- etwas Oregano
 
 ## Zubereitung
 

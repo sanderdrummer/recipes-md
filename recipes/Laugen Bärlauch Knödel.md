@@ -2,14 +2,14 @@
 
 ## Zutaten
 
-- Laugenstangen 270g
-- Porree 2st
-- Kochsahne 200ml
-- Milch 200ml
-- Bacon 50g
-- Käse 100g
-- Bärlauch 20g
-- Muskat
+- 270g Laugenstangen
+- 2St Porree
+- 200ml Kochsahne
+- 200ml Milch
+- 50g Bacon
+- 100g Käse
+- 20g Bärlauch
+- etwas Muskat
 
 ## Zubereitung
 

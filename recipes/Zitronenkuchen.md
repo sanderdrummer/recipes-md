@@ -5,10 +5,10 @@
 - 6 Eier
 - 2 Zitronen
 - 350g Magarine
-- 350 Mehl
+- 350g Mehl
 - 350g Zucker
-- 1 pk Vanillezucker
-- 3 Teelöffel Backpulver
+- 1pk Vanillezucker
+- 3Teelöffel Backpulver
 - 200g Puderzucker
 
 ## Zubereitung

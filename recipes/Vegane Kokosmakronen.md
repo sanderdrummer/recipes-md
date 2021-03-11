@@ -2,11 +2,11 @@
 
 ## Zutaten
 
-- 70 ml Hafermilch
-- 200 g Puderzucker
-- 200 g Kokosraspeln
-- 1 Msp. Backpulver
-- 100 g vegane Zartbitterkuvertüre
+- 70ml Hafermilch
+- 200g Puderzucker
+- 200g Kokosraspeln
+- 1Msp. Backpulver
+- 100g vegane Zartbitterkuvertüre
 
 ## Zubereitung
 

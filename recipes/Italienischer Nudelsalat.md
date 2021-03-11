@@ -2,20 +2,20 @@
 
 ## Zutaten
 
-- 500 g Penne oder andere Nudeln
-- 200 g Mozzarella
-- 100 g Tomate(n) getrocknete in Öl
-- 150 g Parmaschinken
-- 50 g Pinienkerne
+- 500g Penne oder andere Nudeln
+- 200g Mozzarella
+- 100g Tomate(n) getrocknete in Öl
+- 150g Parmaschinken
+- 50g Pinienkerne
 - 1 Zehe/n Knoblauch
 - Salz und Pfeffer
-- 70 ml Olivenöl extra virgine
-- 3 EL Balsamico weiß oder dunkel je nach Geschmack
-- 1 TL Pesto
-- 1 TL Senf
-- 1 TL Honig
-- Parmesan frisch gerieben
-- Rucola
+- 70ml Olivenöl extra virgine
+- 3EL Balsamico weiß oder dunkel je nach Geschmack
+- 1TL Pesto
+- 1TL Senf
+- 1TL Honig
+- etwas Parmesan frisch gerieben
+- 1Pkg Rucola
 
 ## Zubereitung
 

@@ -2,15 +2,15 @@
 
 ## Zutaten
 
-- 250 g Mehl
-- 20 g Hefe
-- 35 g Zucker
-- 125 ml Milch lauwarm
-- 35 g Butter
+- 250g Mehl
+- 20g Hefe
+- 35g Zucker
+- 125ml Milch lauwarm
+- 35g Butter
 - 1 Zitrone unbehandelt Schale abgerieben
-- 100 g Butter
-- 100 g Zucker
-- 1 TL Zimt
+- 100g Butter
+- 100g Zucker
+- 1TL Zimt
 
 ## Zubereitung
 

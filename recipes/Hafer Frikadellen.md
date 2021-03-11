@@ -2,9 +2,9 @@
 
 ## Zutaten
 
-- 200 g Haferflocken kernige
-- 400 ml Gemüsebrühe
-- 200 g Hartkäse gerieben
+- 200g Haferflocken kernige
+- 400ml Gemüsebrühe
+- 200g Hartkäse gerieben
 - Salz und Pfeffer
 - Petersilie
 

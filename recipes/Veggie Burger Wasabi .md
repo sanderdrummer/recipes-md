@@ -2,20 +2,20 @@
 
 ## Zutaten
 
-- 200 g Kartoffeln
-- 1 Dose Kidneybohnen
+- 200g Kartoffeln
+- 1Dose Kidneybohnen
 - 100g rote Spitzpaprika
 - 1 Zwiebel
-- Knoblauchzehen
-- 6 EL Semmelbrösel
-- 2 EL Limettensaft
-- 2 TL Kreuzkümmel
-- 1 TL Korianderpulver
+- 1 Knoblauchzehen
+- 6EL Semmelbrösel
+- 2EL Limettensaft
+- 2TL Kreuzkümmel
+- 1TL Korianderpulver
 - Pfeffer
-- 1 TL Wasabi-Paste
-- 100 Mayonnaise
-- 400 g Tomaten
-- 500 g Pak Choi
+- 1TL Wasabi-Paste
+- 100ml Mayonnaise
+- 400g Tomaten
+- 500g Pak Choi
 - 8 Burger-Brötchen
 
 ## Zubereitung

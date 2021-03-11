@@ -2,11 +2,12 @@
 
 ## Zutaten
 
-- 2 EL Butter 300 g Erbsen (tief
-- gekühlt) Salz Pfeffer
-- 2 EL gehackte gemischte Kräuter abgeriebene Zitronenschale (Bio) Zucker
-- 1 Ei 100 g Semmelbrösel
-- 2-3 Süßkartoffeln (1 kg) 3-4 EL Öl zum Braten
+- 2EL Butter
+- 300g Erbsen (tief
+- 2EL gehackte gemischte Kräuter abgeriebene Zitronenschale (Bio) Zucker
+- 1 Ei
+- 100g Semmelbrösel
+- 3 Süßkartoffeln
 
 ## Zubereitung
 

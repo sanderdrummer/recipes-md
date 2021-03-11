@@ -2,11 +2,12 @@
 
 ## Zutaten
 
-- 400 g Champignons (à 300 g: im Kühlregal) 200 g Speck
-- 2 Pck. Gnocchi zum Braten
-- 2 EL Pflanzenöl
-- 200 g Schlagsahne
-- 100 g geriebener Bergkäse
+- 400g Champignons
+- 200g Speck
+- 2Pck. Gnocchi zum Braten
+- 2EL Pflanzenöl
+- 200g Schlagsahne
+- 100g geriebener Bergkäse
 - 2 Lauchzwiebeln
 
 ## Zubereitung
