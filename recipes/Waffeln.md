@@ -2,13 +2,13 @@
 
 ## Zutaten
 
-- 600 g	Margarine
-- 300 g	Zucker
-- 12	Ei(er)
-- 600 g	Mehl
-- 3 Pck.	Vanillezucker
-- ½ kl. Flasche/n	Rumaroma oder ein Spritzer Rum
-- ½ TL	Backpulver
+- 600g Margarine
+- 300g Zucker
+- 12 Eier
+- 600g Mehl
+- 3Pck. Vanillezucker
+- 0.5kl. Flasche/n Rumaroma oder ein Spritzer Rum
+- 0.5TL Backpulver
 
 ## Zubereitung
 

@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node mdToJson"
+    "start": "node mdToJson",
+    "format": "prettier . --write"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^26.4.2"
+    "jest": "^26.4.2",
+    "prettier": "^2.2.1"
   }
 }

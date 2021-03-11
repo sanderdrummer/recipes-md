@@ -8,8 +8,7 @@
 - 3 cl White Rum
 - 2 cl Zitronensaft
 - 2 cl Kokossirup
-- 7 cl Maracuja Nektar  
-- 
+- 7 cl Maracuja Nektar
 
 ## Zubereitung
 

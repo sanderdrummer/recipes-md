@@ -2,7 +2,6 @@
 
 ## Zutaten
 
-- 
 - 200 g Spargel grün
 - 200 g Linguine
 - 30 g Butter

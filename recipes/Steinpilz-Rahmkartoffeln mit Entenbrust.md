@@ -2,16 +2,16 @@
 
 ## Zutaten
 
-- 1	Entenbrust
-- 8	Kartoffel(n)
-- 50 g	Butter
-- 1	Frühlingszwiebel(n)
-- 2 EL	Steinpilze getrocknet
-- 500 ml	Sahne
-- 50 g	Steinpilze frisch
+- 1 Entenbrust
+- 8 Kartoffel(n)
+- 50 g Butter
+- 1 Frühlingszwiebel(n)
+- 2 EL Steinpilze getrocknet
+- 500 ml Sahne
+- 50 g Steinpilze frisch
 - Chiliflocken oder Cayennepfeffer
 - Salz und Pfeffer
-- etwas	Petersilie gehackt
+- etwas Petersilie gehackt
 
 ## Zubereitung
 

@@ -2,10 +2,10 @@
 
 ## Zutaten
 
-- 400g kg	Erbsen TK
-- 1 m.-große	Kartoffel(n
-- 1EL	Butter
-- 200 ml	Kokosmilch
+- 400g kg Erbsen TK
+- 1 Kartoffel
+- 1EL Butter
+- 200 ml Kokosmilch
 
 ## Zubereitung
 

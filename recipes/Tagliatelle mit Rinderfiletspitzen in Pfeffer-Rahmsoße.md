@@ -2,16 +2,16 @@
 
 ## Zutaten
 
-- 250 g 	Tagliatelle
-- 400 g 	Rinderfilet
-- 150 ml 	Sahne
-- 150 g 	braune Champignons
-- 2 	Schalotten
-- 2 TL 	grüner Pfeffer
-- 2 EL 	Olivenöl (aufgeteilt)
-- 1 EL 	Butter
-- 100 ml 	Rotwein
-- 250 ml 	Rinderbrühe
+- 250 g Tagliatelle
+- 400 g Rinderfilet
+- 150 ml Sahne
+- 150 g braune Champignons
+- 2 Schalotten
+- 2 TL grüner Pfeffer
+- 2 EL Olivenöl (aufgeteilt)
+- 1 EL Butter
+- 100 ml Rotwein
+- 250 ml Rinderbrühe
 
 ## Zubereitung
 

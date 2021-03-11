@@ -7,7 +7,6 @@
 - 250ml Rotwein
 - 250ml Brühe
 - Senf
-- 
 
 ## Zubereitung
 

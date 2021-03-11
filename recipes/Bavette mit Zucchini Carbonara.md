@@ -2,14 +2,13 @@
 
 ## Zutaten
 
-- 160 g Barilla Bavette        
+- 160 g Barilla Bavette
 - 70 g Zucchini
 - 3 Eigelb
 - 60 g Pecorino
 - 40 g Milch
 - 20 ml Natives Olivenöl extra
 - Frische Minzblätter
-- Salz und schwarzer Pfeffer
 
 ## Zubereitung
 
@@ -22,4 +21,4 @@ Anschließend die Barilla Bavette in der Pfanne mit der Zucchini vermengen.
 
 Pfanne von der Herdplatte nehmen und die verquirlten Eigelbe mit einem Esslöffel Kochwasser dazugeben. Etwa 30 Sekunden lang umrühren.
 
-Geriebenen Pecorino und frische Minzblätter zugeben, vermengen und mit Pfeffer garniert servieren. 
+Geriebenen Pecorino und frische Minzblätter zugeben, vermengen und mit Pfeffer garniert servieren.

@@ -43,13 +43,13 @@ Nun das trockene Sojafleisch zu der Marinade in die Schüssel geben und gut unte
 Sojawürfel für veganes Gulasch einlegen
 Für das Gulasch
 
-Die Zwiebeln schälen und in feine Würfel schneiden. Die Knoblauchzehen ebenfalls schälen und entweder in feine Würfel schneiden oder mit einer Knoblauchpresse direkt in den Topf pressen – die Knoblauchzehen werden aber erst später untergehoben, damit sie nicht verbrennen oder bitter werden. Paprikaschote waschen, halbieren, entkernen und in feine Streifen oder Würfel schneiden.
+Die Zwiebeln schälen und in feine Würfel schneiden. Die Knoblauchzehen ebenfalls schälen und entweder in feine Würfel schneiden oder mit einer Knoblauchpresse direkt in den Topf pressen die Knoblauchzehen werden aber erst später untergehoben, damit sie nicht verbrennen oder bitter werden. Paprikaschote waschen, halbieren, entkernen und in feine Streifen oder Würfel schneiden.
 Gemüse für veganes Gulasch vorbereiten
 
 Das Olivenöl in einem großen Topf erhitzen und darin die zuvor eingelegten Sojawürfel für 5 Minuten auf hoher Stufe scharf anbraten, zwischendurch immer mal wieder kräftig umrühren. Keine Sorge: Wenn sich etwas am Topfboden ansetzen sollte, lässt sich das spätestens nach der Flüssigkeitszugabe gut lösen und einrühren.
 Veganes Gulasch: Sojawürfel scharf angebraten
 
-Die Zwiebel- und Paprikastreifen bzw. -würfel hinzugeben und weitere 5 Minuten scharf mitbraten, zwischendurch immer mal wieder kräftig umrühren. Dann den Herd auf mittlere Stufe herunterdrehen. Danach das Tomatenmark unterrühren, kurz anschwitzen lassen und die Knoblauchwürfel unterheben oder mit einer Knoblauchpresse direkt in den Topf pressen.
+Die Zwiebel und Paprikastreifen bzw. würfel hinzugeben und weitere 5 Minuten scharf mitbraten, zwischendurch immer mal wieder kräftig umrühren. Dann den Herd auf mittlere Stufe herunterdrehen. Danach das Tomatenmark unterrühren, kurz anschwitzen lassen und die Knoblauchwürfel unterheben oder mit einer Knoblauchpresse direkt in den Topf pressen.
 Veganes Gulasch: Gemüse hinzugeben und scharf mitbraten
 
 Die Gewürze Paprika edelsüß und scharf, Majoran und Thymian hinzugeben, kräftig unterrühren und kurz mitbraten. Auch hier keine Sorge: Wenn sich etwas am Topfboden ansetzen sollte, lässt sich das spätestens nach der Flüssigkeitszugabe gut lösen und einrühren.

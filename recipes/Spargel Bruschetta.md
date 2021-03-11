@@ -2,14 +2,14 @@
 
 ## Zutaten
 
-- 4 Stange/n	Spargel grün dünn
-- ½ m.-große	Zwiebel(n) fein gewürfelt
-- 1 Zehe/n	Knoblauch fein gehackt
-- 1 ½ EL	Olivenöl
-- 2	Romatomate(n) vollreif geviertelt entkernt und gewürfelt
+- 4 Stange/n Spargel grün dünn
+- ½ m.-große Zwiebel(n) fein gewürfelt
+- 1 Zehe/n Knoblauch fein gehackt
+- 1 ½ EL Olivenöl
+- 2 Romatomate(n) vollreif geviertelt entkernt und gewürfelt
 - Salz und Pfeffer aus der Mühle
-- ¼	Zitrone(n) den Saft
-- 4 Scheibe/n	Weißbrot nicht zu dünn geschnitten
+- ¼ Zitrone(n) den Saft
+- 4 Scheibe/n Weißbrot nicht zu dünn geschnitten
 
 ## Zubereitung
 

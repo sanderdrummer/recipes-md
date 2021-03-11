@@ -2,11 +2,11 @@
 
 ## Zutaten
 
-- 200	g	Mehl
-- 1	EL	Öl
-- 0.125	l	Bier (helles)
-- 5	EL	Milch
-- 2	Stk	Ei(er)
+- 200 g Mehl
+- 1 EL Öl
+- 0.125 l Bier (helles)
+- 5 EL Milch
+- 2 Stk Ei(er)
 
 ## Zubereitung
 

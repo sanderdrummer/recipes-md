@@ -19,4 +19,4 @@ Dann mit Brühe, Cayennepfeffer und Zucker würzen.
 
 Eine Auflaufform fetten die Nudeln hineingeben mit der Tomatensoße vermischen und dann Sauce Hollandaise und den Käse obenauf verteilen.
 
-Bei 180 Grad für 20-30 Minuten backen.
+Bei 180 Grad für 30 Minuten backen.

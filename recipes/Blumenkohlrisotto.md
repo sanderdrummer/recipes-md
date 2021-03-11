@@ -6,10 +6,11 @@
 - 1 Knoblauchzehe
 - 1 Blumenkohl (ca. 1,2 kg)
 - 2 EL Butter
-- 300 g Risotto-Reis
+- 300 g RisottoReis
 - Salz, Pfeffer
-- nach Belieben 100 ml Weiß- wein (ersatzw. Instant-Brühe)
-- 1,2 Gemüsebrühe (instant) ca. 1 TL Zitronensaft
+- 100 ml Weißwein
+- 1,2 Gemüsebrühe
+- 1 TL Zitronensaft
 - 2 Scheiben Toastbrot
 - 100 g geriebener Parmesan
 
