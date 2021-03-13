@@ -1,4 +1,4 @@
-# zuchinischiffchen
+# Zuchinischiffchen
 
 ## Zutaten
 
