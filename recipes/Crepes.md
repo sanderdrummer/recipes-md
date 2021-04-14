@@ -3,7 +3,7 @@
 ## Zutaten
 
 - 250g Mehl
-- 0,5l Hafermilch
+- 0.5l Hafermilch
 - 1Pkg Vanillezucker
 - 4 Eier
 - 50g Margarine

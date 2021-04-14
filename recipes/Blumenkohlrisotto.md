@@ -4,12 +4,12 @@
 
 - 1 Zwiebel
 - 1 Knoblauchzehe
-- 1 Blumenkohl (ca. 1,2 kg)
+- 1 Blumenkohl
 - 2 EL Butter
 - 300g RisottoReis
 - Salz, Pfeffer
 - 100ml Weißwein
-- 1,2l Gemüsebrühe
+- 1.2l Gemüsebrühe
 - 1TL Zitronensaft
 - 2 Scheiben Toastbrot
 - 100g geriebener Parmesan
