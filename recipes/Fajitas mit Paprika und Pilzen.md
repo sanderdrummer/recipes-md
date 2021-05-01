@@ -1,4 +1,4 @@
-# Fajitas mit Paprika und Pizlen
+# Fajitas mit Paprika und Pilzen
 
 ## Zutaten
 
