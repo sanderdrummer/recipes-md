@@ -1,5 +1,7 @@
 # Bavette mit Zucchini Carbonara
 
+## Tags Nudeln, Vegetarisch
+
 ## Zutaten
 
 - 160g Barilla Bavette

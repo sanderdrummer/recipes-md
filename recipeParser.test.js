@@ -4,6 +4,9 @@ describe("recipeParser", () => {
     const obj = parseMdToJson(`
 # Bierteig     
 
+
+## Tags Nudeln, Vegetarisch
+
 ## Zutaten
 
 - 200g Mehl
@@ -63,6 +66,21 @@ Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst u
 
   it("handles missing description", () => {
     const obj = parseMdToJson(`
+    ## Zutaten
+
+    - 200g Mehl
+    - 1EL ol
+    - 0.125l Bier (helles)
+`);
+    expect(obj).toMatchSnapshot();
+  });
+  it("handles empty tags", () => {
+    const obj = parseMdToJson(`
+
+    # Title
+
+    ## Tags
+
     ## Zutaten
 
     - 200g Mehl

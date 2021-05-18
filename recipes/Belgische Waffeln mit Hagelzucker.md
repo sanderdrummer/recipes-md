@@ -1,5 +1,7 @@
 # Belgische Waffeln mit Hagelzucker
 
+## Tags Backen, Süß, Waffeln
+
 ## Zutaten
 
 - 500g Mehl

@@ -30,12 +30,20 @@ const getDescription = (file = "") => {
     : "";
 };
 
+const getTags = (file = "") => {
+  const tagMatcher = /## Tags (.*)/gm;
+  const [rawtags] = file.match(tagMatcher) || [];
+  const tags = rawtags ? rawtags.replace("## Tags", "").trim().split(",") : [];
+  return tags;
+};
+
 const parseMdToJson = (file = "") => {
   if (!file) return null;
   return {
     title: getTitle(file),
     ingredients: getIngredients(file),
     description: getDescription(file),
+    tags: getTags(file),
   };
 };
 
