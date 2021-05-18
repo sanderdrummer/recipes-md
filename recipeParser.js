@@ -33,7 +33,13 @@ const getDescription = (file = "") => {
 const getTags = (file = "") => {
   const tagMatcher = /## Tags (.*)/gm;
   const [rawtags] = file.match(tagMatcher) || [];
-  const tags = rawtags ? rawtags.replace("## Tags", "").trim().split(",") : [];
+  const tags = rawtags
+    ? rawtags
+        .replace("## Tags", "")
+        .trim()
+        .split(",")
+        .map((tag) => tag.trim())
+    : [];
   return tags;
 };
 
