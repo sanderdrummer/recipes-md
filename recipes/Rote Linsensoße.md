@@ -1,5 +1,7 @@
 # Rote Linsensoße
 
+## Tags Nudeln, Vegetarisch, Linsen
+
 ## Zutaten
 
 - Frühlingszwiebeln

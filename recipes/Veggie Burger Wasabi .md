@@ -1,5 +1,7 @@
 # Veggie Burger Wasabi
 
+## Tags Vegetarisch, Aufwendig
+
 ## Zutaten
 
 - 200g Kartoffeln

@@ -1,5 +1,7 @@
 # Halloumi Tabbouleh
 
+## Tags Vegetarisch, Linsen, Halloumi
+
 ## Zutaten
 
 - 150g Linsen oder Bulgur

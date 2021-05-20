@@ -1,5 +1,7 @@
 # Moussaka
 
+## Tags Vegetarisch, Kartoffeln, Auberginen, Aufwendig
+
 ## Zutaten
 
 - 600g Kartoffeln

@@ -1,5 +1,7 @@
 # Flammkuchen Teig
 
+## Tags Vegetarisch
+
 ## Zutaten
 
 - 1EL Öl

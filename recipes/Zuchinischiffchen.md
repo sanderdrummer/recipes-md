@@ -1,5 +1,7 @@
 # Zuchinischiffchen
 
+## Tags Zucchini, Quinoa
+
 ## Zutaten
 
 - 125g Quinoa

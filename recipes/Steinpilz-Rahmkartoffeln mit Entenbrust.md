@@ -1,5 +1,7 @@
 # Steinpilz-Rahmkartoffeln mit Entenbrust
 
+## Tags Aufwendig, Pilze
+
 ## Zutaten
 
 - 1 Entenbrust

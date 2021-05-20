@@ -1,5 +1,7 @@
 # Veganes Gulasch mit Sojawürfeln
 
+## Tags Vegetarisch, Aufwendig
+
 ## Zutaten
 
 - 70g Sojasauce

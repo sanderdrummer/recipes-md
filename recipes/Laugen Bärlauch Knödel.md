@@ -1,5 +1,7 @@
 # Laugen Bärlauch Knödel
 
+## Tags Schnell, Vegetarisch
+
 ## Zutaten
 
 - 270g Laugenstangen

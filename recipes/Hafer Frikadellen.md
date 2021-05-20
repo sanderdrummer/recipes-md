@@ -1,5 +1,7 @@
 # Hafer Frikadellen
 
+## Tags Vegetarisch, Reis
+
 ## Zutaten
 
 - 200g Haferflocken kernige

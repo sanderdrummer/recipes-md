@@ -1,5 +1,7 @@
 # Kolrabi Kartoffel Suppe mit Laugenbrezeln
 
+## Tags Suppe, Vegetarisch, Kartoffeln
+
 ## Zutaten
 
 - 500g Kartoffeln

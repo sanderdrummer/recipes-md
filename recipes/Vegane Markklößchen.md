@@ -1,5 +1,7 @@
 # Vegane Markklößchen
 
+## Tags Suppe, Beilage, Vegetarisch
+
 ## Zutaten
 
 - 2 Brötchen

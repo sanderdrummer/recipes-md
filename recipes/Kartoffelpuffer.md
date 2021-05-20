@@ -1,5 +1,7 @@
 # Kartoffelpuffer
 
+## Tags Vegetarisch, Kartoffeln
+
 ## Zutaten
 
 - 1000 g Kartoffeln, festkochende

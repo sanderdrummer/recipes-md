@@ -1,5 +1,7 @@
 # Carrot Dogs
 
+## Tags Vegetarisch
+
 ## Zutaten
 
 - 4 Karotten

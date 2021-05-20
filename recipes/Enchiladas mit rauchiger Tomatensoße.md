@@ -1,5 +1,7 @@
 # Enchiladas mit rauchiger Tomatensoße
 
+## Tags Mexikanisch, Wraps
+
 ## Zutaten
 
 - 4 Tortillas

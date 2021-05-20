@@ -1,5 +1,7 @@
 # Veganer Eintopf mit Quinoa und Kokosmilch
 
+## Tags Vegetarisch, Zucchini, Quinoa
+
 ## Zutaten
 
 - 150g Quinoa

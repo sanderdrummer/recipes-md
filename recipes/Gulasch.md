@@ -1,5 +1,7 @@
 # Gulasch
 
+## Tags Rind, Rotwein
+
 ## Zutaten
 
 - 500g Rindergulasch

@@ -1,5 +1,7 @@
 # Schnelle Hochzeitssuppe
 
+## Tags Suppe, Vegetarisch
+
 ## Zutaten
 
 - 2l Gemüsebrühe

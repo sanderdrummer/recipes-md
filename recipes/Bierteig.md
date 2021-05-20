@@ -1,5 +1,7 @@
 # Bierteig
 
+## Tags Fritieren
+
 ## Zutaten
 
 - 200g Mehl
