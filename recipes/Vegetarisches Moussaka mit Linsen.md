@@ -1,6 +1,6 @@
 # Vegetarisches Moussaka mit Linsen
 
-## Tags Vegetarisch, Aubergine, Linsen
+## Tags Vegetarisch, Auberginen, Linsen
 
 ## Zutaten
 

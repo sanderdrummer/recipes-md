@@ -1,6 +1,6 @@
 # Spaghetti Bolognese
 
-## Tags Nudeln
+## Tags Nudeln, Lasagne
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
-# Hafer Frikadellen
+# Hafer Schnitzel
 
-## Tags Vegetarisch, Reis
+## Tags Vegetarisch, Reis, Schnitzel
 
 ## Zutaten
 

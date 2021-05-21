@@ -1,6 +1,6 @@
 # Rotweinsauce
 
-## Tags Steak, Beilage
+## Tags Steak, Beilage, Rotwein
 
 ## Zutaten
 
