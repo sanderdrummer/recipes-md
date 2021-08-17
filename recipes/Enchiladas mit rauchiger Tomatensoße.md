@@ -6,6 +6,7 @@
 
 - 4 Tortillas
 - 50g Streukäse
+- 1Dose Bohnen
 - 2 Paprika
 - 70g Tomatenmark
 - 1 Limette
