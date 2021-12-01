@@ -5,6 +5,7 @@
 ## Zutaten
 
 - 4 Tortillas
+- 2 Tomaten
 - 50g Streukäse
 - 1Dose Bohnen
 - 2 Paprika
