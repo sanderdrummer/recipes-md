@@ -5,6 +5,16 @@ const getTitle = (file = "") => {
   return title.replace("#", "").trim();
 };
 
+const floatRegex = /([0-9]*[.])?[0-9]+/;
+const parseAmount = (amount = "") => {
+  if (!amount) {
+    return { amount: "", scale: "" };
+  }
+  const [parsedNumber = ""] = amount.match(floatRegex);
+  const scale = amount.replace(parsedNumber, "");
+  return { amount: parsedNumber, scale };
+};
+
 const getIngredients = (file = "") => {
   const ingredientsMatcher = /- (.*)/gm;
   const ingredients = file.match(ingredientsMatcher);
@@ -14,11 +24,19 @@ const getIngredients = (file = "") => {
         .filter((maybe) => Boolean(maybe))
         .map((ingredient) => ingredient.replace("-", "").trim())
         .map((ingredient) => {
-          const [amount, ...name] = ingredient.split(" ");
-          return {
-            amount,
-            name: name.join(),
-          };
+          if (ingredient.match(/^\d+/)) {
+            const [amount, ...name] = ingredient.split(" ");
+            return {
+              ...parseAmount(amount),
+              name: name.join(),
+            };
+          } else {
+            return {
+              name: ingredient,
+              scale: "",
+              amount: "",
+            };
+          }
         })
     : [];
 };
@@ -53,4 +71,4 @@ const parseMdToJson = (file = "") => {
   };
 };
 
-module.exports = { parseMdToJson };
+module.exports = { parseMdToJson, parseAmount };
