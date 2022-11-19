@@ -4,7 +4,7 @@
 
 ## Zutaten
 
-- 125g feine Sojaschnetzel
+- 125g feine Sojaschnetzel/Quinoa 
 - 500g passierte Tomaten
 - 1Pck TK Suppengemüse
 - 1 Frühlingszwiebel
