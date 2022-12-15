@@ -21,23 +21,24 @@ const getIngredients = (file = "") => {
 
   return ingredients
     ? ingredients
-        .filter((maybe) => Boolean(maybe))
-        .map((ingredient) => ingredient.replace("-", "").trim())
-        .map((ingredient) => {
-          if (ingredient.match(/^\d+/)) {
-            const [amount, ...name] = ingredient.split(" ");
-            return {
-              ...parseAmount(amount),
-              name: name.join(),
-            };
-          } else {
-            return {
-              name: ingredient,
-              scale: "",
-              amount: "",
-            };
-          }
-        })
+      .filter((maybe) => Boolean(maybe))
+      .map((ingredient) => ingredient.replace("-", "").trim())
+      .map((ingredient) => ingredient.replace("\t", ""))
+      .map((ingredient) => {
+        if (ingredient.match(/^\d+/)) {
+          const [amount, ...name] = ingredient.split(" ");
+          return {
+            ...parseAmount(amount),
+            name: name.join(),
+          };
+        } else {
+          return {
+            name: ingredient,
+            scale: "",
+            amount: "",
+          };
+        }
+      })
     : [];
 };
 
@@ -53,10 +54,10 @@ const getTags = (file = "") => {
   const [rawtags] = file.match(tagMatcher) || [];
   const tags = rawtags
     ? rawtags
-        .replace("## Tags", "")
-        .trim()
-        .split(",")
-        .map((tag) => tag.trim())
+      .replace("## Tags", "")
+      .trim()
+      .split(",")
+      .map((tag) => tag.trim())
     : [];
   return tags;
 };

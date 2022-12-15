@@ -4,11 +4,11 @@
 
 ## Zutaten
 
-- 500g	Nudeln
+- 500g Nudeln
 - 1	Paprikaschote
 - 1	Lauchzwiebel
 - 1	Knoblauch
-- 4 EL Tomatenmark
+- 4EL Tomatenmark
 - 100ml	Gemüsebrühe
 - 2EL	Parmesan
 - 200ml	Sahne
