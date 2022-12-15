@@ -23,7 +23,7 @@ const getIngredients = (file = "") => {
     ? ingredients
       .filter((maybe) => Boolean(maybe))
       .map((ingredient) => ingredient.replace("-", "").trim())
-      .map((ingredient) => ingredient.replace("\t", ""))
+      .map((ingredient) => ingredient.replace("\t", " "))
       .map((ingredient) => {
         if (ingredient.match(/^\d+/)) {
           const [amount, ...name] = ingredient.split(" ");
