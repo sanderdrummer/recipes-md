@@ -6,7 +6,7 @@
 
 - Lachsfilet mit Haut
 
-## zubereitung
+## Zubereitung
 
 Den Lachs entsschuppen und von beiden Seiten salzen.
 Dann 20 Minuten einziehen lassen
