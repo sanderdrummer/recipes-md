@@ -12,3 +12,4 @@
 ## Zubereitung
 
 alles zu einem Teig verkneten
+180 Grad 10 bis 15min
