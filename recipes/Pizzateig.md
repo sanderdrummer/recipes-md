@@ -1,5 +1,7 @@
 # Pizzateig
 
+## Tags Pizza
+
 ## Zutaten
 
 - 500g Weizenmehl Type 405

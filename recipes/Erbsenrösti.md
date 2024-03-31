@@ -1,5 +1,7 @@
 # Erbsenrösti
 
+## Tags Vegetarisch, Kartofffeln
+
 ## Zutaten
 
 - 2EL Butter

@@ -1,5 +1,7 @@
 # Mac and Cheese
 
+## Tags Vegetarisch, Nudeln
+
 ## Zutaten
 
 - 500g Makkaroni(oder Hörnchennudeln)

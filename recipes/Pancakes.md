@@ -1,5 +1,7 @@
 # Pancakes
 
+## Tags Frühstück, Vegetarisch
+
 ## Zutaten
 
 - 150g Mehl

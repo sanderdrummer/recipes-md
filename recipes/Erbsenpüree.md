@@ -1,5 +1,7 @@
 # Erbsenpüree
 
+## Tags Steak, Beilage
+
 ## Zutaten
 
 - 400g kg Erbsen TK

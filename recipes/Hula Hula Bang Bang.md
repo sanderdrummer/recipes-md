@@ -1,5 +1,7 @@
 # Hula Hula Bang Bang
 
+## Tags Cocktail
+
 ## Zutaten
 
 - 1cl Chartreuse verde

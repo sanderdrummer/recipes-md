@@ -1,22 +1,51 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`recipeParser handles empty tags 1`] = `
+Object {
+  "description": "",
+  "ingredients": Array [
+    Object {
+      "amount": "200",
+      "name": "Mehl",
+      "scale": "g",
+    },
+    Object {
+      "amount": "1",
+      "name": "ol",
+      "scale": "EL",
+    },
+    Object {
+      "amount": "0.125",
+      "name": "Bier,(helles)",
+      "scale": "l",
+    },
+  ],
+  "tags": Array [],
+  "title": "Title",
+}
+`;
+
 exports[`recipeParser handles missing description 1`] = `
 Object {
   "description": "",
   "ingredients": Array [
     Object {
-      "amount": "200g",
+      "amount": "200",
       "name": "Mehl",
+      "scale": "g",
     },
     Object {
-      "amount": "1EL",
+      "amount": "1",
       "name": "ol",
+      "scale": "EL",
     },
     Object {
-      "amount": "0.125l",
+      "amount": "0.125",
       "name": "Bier,(helles)",
+      "scale": "l",
     },
   ],
+  "tags": Array [],
   "title": "Zutaten",
 }
 `;
@@ -27,6 +56,7 @@ Object {
 Die Eier und den halben TL Salz untermischen.
 Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
   "ingredients": Array [],
+  "tags": Array [],
   "title": "Bierteig",
 }
 `;
@@ -38,18 +68,22 @@ Die Eier und den halben TL Salz untermischen.
 Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
   "ingredients": Array [
     Object {
-      "amount": "200g",
+      "amount": "200",
       "name": "Mehl",
+      "scale": "g",
     },
     Object {
-      "amount": "1EL",
+      "amount": "1",
       "name": "ol",
+      "scale": "EL",
     },
     Object {
-      "amount": "0.125l",
+      "amount": "0.125",
       "name": "Bier,(helles)",
+      "scale": "l",
     },
   ],
+  "tags": Array [],
   "title": "Zutaten",
 }
 `;
@@ -61,17 +95,34 @@ Die Eier und den halben TL Salz untermischen.
 Den Teig ca. 30 Minuten quellen lassen. In dem Teig kann man nun Gemüse, Obst und Fisch frittieren.",
   "ingredients": Array [
     Object {
-      "amount": "200g",
+      "amount": "200",
       "name": "Mehl",
+      "scale": "g",
     },
     Object {
-      "amount": "1EL",
+      "amount": "1",
       "name": "ol",
+      "scale": "EL",
     },
     Object {
-      "amount": "0.125l",
+      "amount": "0.125",
       "name": "Bier,(helles)",
+      "scale": "l",
     },
+    Object {
+      "amount": "",
+      "name": "pfeffer",
+      "scale": "",
+    },
+    Object {
+      "amount": "",
+      "name": "etwas zucker",
+      "scale": "",
+    },
+  ],
+  "tags": Array [
+    "Nudeln",
+    "Vegetarisch",
   ],
   "title": "Bierteig",
 }

@@ -1,5 +1,7 @@
 # Vegetarisches Moussaka mit Linsen
 
+## Tags Vegetarisch, Auberginen, Linsen
+
 ## Zutaten
 
 - 100g Streukäse

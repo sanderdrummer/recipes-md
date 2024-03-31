@@ -1,5 +1,7 @@
 # Gnocchi Salat mit gegrillten Tomaten
 
+## Tags Salat, Vegetarisch
+
 ## Zutaten
 
 - 1 Knoblauch

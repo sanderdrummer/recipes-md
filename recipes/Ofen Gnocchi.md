@@ -1,5 +1,7 @@
 # Ofen Gnocchi
 
+## Tags Vegetarisch, Nudeln, Pilze, Schnell
+
 ## Zutaten
 
 - 400g Champignons

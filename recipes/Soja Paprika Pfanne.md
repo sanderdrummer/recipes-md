@@ -1,5 +1,7 @@
 # Soja Paprika Pfanne
 
+## Tags Vegetarisch, Pilze, Reis
+
 ## Zutaten
 
 - 100g Sojaschnetzel grob

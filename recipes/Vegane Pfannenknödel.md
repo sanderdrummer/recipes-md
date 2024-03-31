@@ -1,5 +1,7 @@
 # Vegane, schnelle Knödel aus der Pfanne
 
+## Tags Vegetarisch, Beilage
+
 ## Zutaten
 
 - 200g Semmelbrösel/ Paniermehl

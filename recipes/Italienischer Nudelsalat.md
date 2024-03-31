@@ -1,5 +1,7 @@
 # Italienischer Nudelsalat
 
+## Tags Salat, Nudeln, Italienisch
+
 ## Zutaten
 
 - 500g Penne oder andere Nudeln

@@ -1,5 +1,7 @@
 # Vegane Gulasch Suppe
 
+## Tags Suppe, Vegetarisch
+
 ## Zutaten
 
 - 3 rote Zwiebeln

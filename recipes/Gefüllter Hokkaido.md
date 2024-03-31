@@ -1,5 +1,7 @@
 # Gefüllter Hokkaido
 
+## Tags Vegetarisch, Kürbis, Quinoa
+
 ## Zutaten
 
 - 1g Hokkaidokürbis(se) ca. 650 g
