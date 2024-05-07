@@ -4,11 +4,11 @@
 
 ## Zutaten
 
--6cl Rye Whiskey
--3cl Zitronensaft frisch gepresst
--2cl Zuckersirup
--1St Eiweiß oder 1cl Aquafaba
--1,5cl trockener Shiraz
+- 6cl Rye Whiskey
+- 3cl Zitronensaft frisch gepresst
+- 2cl Zuckersirup
+- 1St Eiweiß oder 1cl Aquafaba
+- 1,5cl trockener Shiraz
 
 ## Zubereitung
 
