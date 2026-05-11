@@ -2,14 +2,14 @@
 
 
 ## Zutaten
-* 50g Basmati-Reis (Rohgewicht)
-* 1 mittelgroße Karotte
-* ½ Brokkoli (nur die Röschen)
-* 50g Erbsen (TK oder frisch)
-* 1 daumengroßes Stück Ingwer
-* 2 EL Sojasauce (natriumreduziert)
-* 1 TL Sesamöl
-* Ein Spritzer Limette
+- 50g Basmati-Reis (Rohgewicht)
+- 1 mittelgroße Karotte
+- ½ Brokkoli (nur die Röschen)
+- 50g Erbsen (TK oder frisch)
+- 1 daumengroßes Stück Ingwer
+- 2 EL Sojasauce (natriumreduziert)
+- 1 TL Sesamöl
+- Ein Spritzer Limette
 
 ## Zubereitung
 für 1 Person
