@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
-import { searchRecipes } from "../lib/recipes.js";
-import SearchBar from "../components/SearchBar.jsx";
-import RecipeCard from "../components/RecipeCard.jsx";
+import RecipeCard from "../components/RecipeCard";
+import SearchBar from "../components/SearchBar";
+import { searchRecipes } from "../lib/recipes";
 
 export default function Overview() {
   const [query, setQuery] = useState("");

@@ -1,7 +1,7 @@
-import { Router, Route, Switch } from "wouter";
+import { Route, Router, Switch } from "wouter";
 import { useHashLocation } from "wouter/use-hash-location";
-import Overview from "./pages/Overview.jsx";
-import Recipe from "./pages/Recipe.jsx";
+import Overview from "./pages/Overview";
+import Recipe from "./pages/Recipe";
 
 export default function App() {
   return (

@@ -1,4 +1,10 @@
-export default function RecipeCard({ recipe }) {
+import type { Recipe } from "../lib/recipes";
+
+interface RecipeCardProps {
+  recipe: Recipe;
+}
+
+export default function RecipeCard({ recipe }: RecipeCardProps) {
   return (
     <a
       href={`#/rezept/${recipe.slug}`}

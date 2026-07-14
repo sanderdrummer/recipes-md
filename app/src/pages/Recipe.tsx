@@ -1,8 +1,8 @@
 import { useParams } from "wouter";
-import { getBySlug } from "../lib/recipes.js";
+import { getBySlug } from "../lib/recipes";
 
 export default function Recipe() {
-  const { slug } = useParams();
+  const { slug } = useParams<{ slug: string }>();
   const recipe = getBySlug(slug);
 
   if (!recipe) {
@@ -40,8 +40,8 @@ export default function Recipe() {
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-amber-800">Zutaten</h2>
           <ul className="mt-2 list-disc space-y-1 pl-5">
-            {recipe.ingredients.map((ing, i) => (
-              <li key={i}>{ing}</li>
+            {recipe.ingredients.map((ing) => (
+              <li key={ing}>{ing}</li>
             ))}
           </ul>
         </section>
@@ -51,8 +51,8 @@ export default function Recipe() {
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-amber-800">Zubereitung</h2>
           <div className="mt-2 space-y-3 leading-relaxed">
-            {recipe.steps.map((step, i) => (
-              <p key={i} className="whitespace-pre-line">
+            {recipe.steps.map((step) => (
+              <p key={step} className="whitespace-pre-line">
                 {step}
               </p>
             ))}

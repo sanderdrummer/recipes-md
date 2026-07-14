@@ -1,18 +1,20 @@
 {
-  "name": "jsontomd",
+  "name": "recipes-md",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest",
-    "start": "node mdToJson",
-    "format": "prettier . --write"
-  },
-  "author": "",
+  "private": true,
+  "description": "Recipe collection PWA built from Markdown files",
   "license": "ISC",
-  "dependencies": {},
+  "workspaces": [
+    "app"
+  ],
+  "scripts": {
+    "check": "biome check .",
+    "format": "biome check --write .",
+    "typecheck": "npm run typecheck --workspace app",
+    "build": "npm run build --workspace app",
+    "dev": "npm run dev --workspace app"
+  },
   "devDependencies": {
-    "jest": "^26.4.2",
-    "prettier": "^2.2.1"
+    "@biomejs/biome": "^2.3.0"
   }
 }
