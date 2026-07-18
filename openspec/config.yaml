@@ -1,5 +1,14 @@
 schema: spec-driven
 
+context: |
+  Tech stack: TypeScript, React, Vite, Tailwind (npm workspaces monorepo).
+  Accessibility is non-negotiable: every UI / design-system change targets perfect
+  a11y compliance (WCAG 2.2 AA+). Contrast, visible focus-visible indicators,
+  native semantics, full keyboard operability, no color-only meaning.
+  Design is flat (no glow/shadow) and uses semantic color roles only — raw Tailwind
+  color tokens are forbidden (palette overridden in the design-system preset).
+  See CLAUDE.md for the full rules.
+
 # Project context (optional)
 # This is shown to AI when creating artifacts.
 # Add your tech stack, conventions, style guides, domain knowledge, etc.
