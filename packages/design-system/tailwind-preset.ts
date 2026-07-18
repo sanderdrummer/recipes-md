@@ -21,6 +21,13 @@ const preset = {
       current: "currentColor",
       ...semanticColors,
     },
+    // Semantic font roles: `display` for headings/wordmark, `data` for values
+    // (quantities, counts, tags). Body text stays the system sans default.
+    fontFamily: {
+      sans: ["system-ui", "-apple-system", "Segoe UI", "Roboto", "sans-serif"],
+      display: ["Space Grotesk", "system-ui", "sans-serif"],
+      data: ["JetBrains Mono", "ui-monospace", "monospace"],
+    },
   },
 } satisfies Config;
 

@@ -4,9 +4,9 @@ import { cn } from "./cn";
 type HeadingLevel = 1 | 2 | 3;
 
 const HEADING_STYLES: Record<HeadingLevel, string> = {
-  1: "text-3xl font-bold text-text",
-  2: "text-xl font-semibold text-accent",
-  3: "text-lg font-semibold text-text",
+  1: "font-display text-3xl font-bold tracking-tight text-text sm:text-4xl",
+  2: "font-display text-xl font-bold tracking-tight text-accent",
+  3: "font-display text-lg font-medium text-text",
 };
 
 interface HeadingProps {

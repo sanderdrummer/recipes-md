@@ -9,6 +9,6 @@ interface ContainerProps {
 // Centred page column. Vertical padding is passed via `className` (e.g. "py-6").
 export function Container({ children, className }: ContainerProps) {
   return (
-    <div className={cn("mx-auto max-w-3xl px-4", className)}>{children}</div>
+    <div className={cn("mx-auto max-w-5xl px-4", className)}>{children}</div>
   );
 }

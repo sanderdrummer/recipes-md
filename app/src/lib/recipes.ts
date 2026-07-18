@@ -110,6 +110,72 @@ export function getBySlug(slug: string | undefined): Recipe | null {
   return bySlug.get(slug) ?? null;
 }
 
+// Tags worth filtering by: deduplicated case-insensitively (the markdown mixes
+// "Vegetarisch" and "vegetarisch") and used by at least 3 recipes — the long
+// tail of one-off tags (typos, oddities) stays reachable via search instead.
+const tagCounts = new Map<string, number>();
+for (const tag of recipes.flatMap((r) => r.tags)) {
+  const key = tag.trim().toLowerCase();
+  tagCounts.set(key, (tagCounts.get(key) ?? 0) + 1);
+}
+
+export const filterTags: string[] = [...tagCounts.entries()]
+  .filter(([, count]) => count >= 3)
+  .map(([tag]) => tag)
+  .sort((a, b) => a.localeCompare(b, "de"))
+  .map((t) => t.charAt(0).toUpperCase() + t.slice(1));
+
+export function hasTag(recipe: Recipe, tag: string): boolean {
+  const t = tag.toLowerCase();
+  return recipe.tags.some((own) => own.trim().toLowerCase() === t);
+}
+
+// --- Presentation-side parsing (best effort, never drops content) ---
+
+export interface IngredientParts {
+  qty: string | null;
+  name: string;
+}
+
+// Common German recipe units. Matched only at a word boundary so "1Ei" keeps
+// "Ei" as the name while "1TL Zimt" pulls "TL" into the quantity.
+const UNIT_RE =
+  /^(g|kg|mg|ml|cl|l|el|tl|pck|pkg|päckchen|prisen?|stücke?|bund|dosen?|becher|tassen?|zehen?|scheiben?|gläser|glas|tropfen|msp\.?)(?=\s|$)/i;
+
+const AMOUNT_RE =
+  /^(ca\.\s*)?(\d+(?:[.,/]\d+)?(?:\s*[-–]\s*\d+(?:[.,/]\d+)?)?)\s*(.*)$/;
+
+// Split "300g Mehl" into { qty: "300g", name: "Mehl" }. Lines without a
+// recognizable leading amount come back unmodified as the name.
+export function splitQuantity(line: string): IngredientParts {
+  const match = line.match(AMOUNT_RE);
+  if (!match) return { qty: null, name: line };
+  let qty = (match[1] ?? "") + (match[2] ?? "");
+  let rest = match[3] ?? "";
+  const unit = rest.match(UNIT_RE);
+  if (unit?.[1] !== undefined) {
+    qty += unit[1];
+    rest = rest.slice(unit[1].length).trim();
+  }
+  if (!rest) return { qty: null, name: line };
+  return { qty: qty.trim(), name: rest };
+}
+
+export interface StepParts {
+  label: string | null;
+  body: string;
+}
+
+// Steps often start with a short "Teig:" / "Streusel:" prefix; surface it as a
+// label. Anything longer than a few words is prose, not a label.
+const STEP_LABEL_RE = /^([A-ZÄÖÜ][^:\n]{0,30}):\s*/;
+
+export function splitStepLabel(step: string): StepParts {
+  const match = step.match(STEP_LABEL_RE);
+  if (!match || match[1] === undefined) return { label: null, body: step };
+  return { label: match[1], body: step.slice(match[0].length) };
+}
+
 // Case-insensitive substring match over title, tags and ingredients.
 export function searchRecipes(query: string): Recipe[] {
   const q = query.trim().toLowerCase();
