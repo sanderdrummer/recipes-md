@@ -1,3 +1,4 @@
+import { Text } from "@recipes-md/design-system";
 import { useMemo, useState } from "react";
 import RecipeCard from "../components/RecipeCard";
 import SearchBar from "../components/SearchBar";
@@ -10,11 +11,11 @@ export default function Overview() {
   return (
     <div>
       <SearchBar value={query} onChange={setQuery} />
-      <p className="mt-3 text-sm text-stone-500">
+      <Text muted className="mt-3 text-sm">
         {results.length} {results.length === 1 ? "Rezept" : "Rezepte"}
-      </p>
+      </Text>
       {results.length === 0 ? (
-        <p className="mt-6 text-stone-600">Keine Rezepte gefunden.</p>
+        <Text className="mt-6">Keine Rezepte gefunden.</Text>
       ) : (
         <ul className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
           {results.map((recipe) => (

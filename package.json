@@ -5,12 +5,13 @@
   "description": "Recipe collection PWA built from Markdown files",
   "license": "ISC",
   "workspaces": [
-    "app"
+    "app",
+    "packages/*"
   ],
   "scripts": {
     "check": "biome check .",
     "format": "biome check --write .",
-    "typecheck": "npm run typecheck --workspace app",
+    "typecheck": "npm run typecheck --workspace packages/design-system && npm run typecheck --workspace app",
     "build": "npm run build --workspace app",
     "dev": "npm run dev --workspace app"
   },
