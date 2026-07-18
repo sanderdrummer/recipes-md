@@ -21,8 +21,8 @@ export default defineConfig({
         start_url: "/recipes-md/",
         scope: "/recipes-md/",
         display: "standalone",
-        background_color: "#fffbeb",
-        theme_color: "#b45309",
+        background_color: "#090b14",
+        theme_color: "#090b14",
         icons: [
           { src: "icon-192.png", sizes: "192x192", type: "image/png" },
           { src: "icon-512.png", sizes: "512x512", type: "image/png" },
