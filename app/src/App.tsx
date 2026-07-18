@@ -1,4 +1,4 @@
-import { Container, Text } from "@recipes-md/design-system";
+import { Container, Text, ThemeToggle } from "@recipes-md/design-system";
 import { Route, Router, Switch } from "wouter";
 import { useHashLocation } from "wouter/use-hash-location";
 import Overview from "./pages/Overview";
@@ -7,12 +7,16 @@ import Recipe from "./pages/Recipe";
 export default function App() {
   return (
     <Router hook={useHashLocation}>
-      <div className="min-h-screen bg-brand-50 text-ink-800">
-        <header className="border-b border-brand-200 bg-brand-100">
-          <Container className="py-4">
-            <a href="#/" className="text-2xl font-bold text-brand-800">
+      <div className="min-h-screen bg-background text-text">
+        <header className="border-b border-border bg-surface">
+          <Container className="flex items-center justify-between py-4">
+            <a
+              href="#/"
+              className="rounded text-2xl font-bold text-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-surface"
+            >
               Rezepte
             </a>
+            <ThemeToggle />
           </Container>
         </header>
         <main>

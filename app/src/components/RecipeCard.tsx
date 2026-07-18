@@ -8,7 +8,9 @@ interface RecipeCardProps {
 export default function RecipeCard({ recipe }: RecipeCardProps) {
   return (
     <Card href={`#/rezept/${recipe.slug}`}>
-      <Heading level={3}>{recipe.title}</Heading>
+      <Heading level={3} className="text-accent">
+        {recipe.title}
+      </Heading>
       {recipe.tags.length > 0 && (
         <ul className="mt-2 flex flex-wrap gap-1.5">
           {recipe.tags.map((tag) => (

@@ -6,5 +6,7 @@ export { cn } from "./cn";
 export { Heading, Text } from "./Heading";
 export { Input } from "./Input";
 export { TextLink } from "./TextLink";
-export type { Tokens } from "./tokens";
+export { ThemeToggle } from "./ThemeToggle";
+export { useTheme } from "./theme";
+export type { ColorRole, ThemeName, Tokens } from "./tokens";
 export { tokens } from "./tokens";

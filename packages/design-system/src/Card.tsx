@@ -10,8 +10,8 @@ interface CardProps {
 
 export function Card({ children, href, className }: CardProps) {
   const classes = cn(
-    "block rounded-lg border border-brand-200 bg-white p-4 shadow-sm",
-    href !== undefined && "transition hover:border-brand-400 hover:shadow-md",
+    "block rounded-lg border border-border bg-surface p-4",
+    href !== undefined && "transition-colors hover:border-accent",
     className,
   );
 

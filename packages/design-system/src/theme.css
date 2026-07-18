@@ -1,0 +1,30 @@
+/* Semantic color roles as CSS custom properties, per theme.
+ * Values are space-separated RGB channel triplets so Tailwind's `<alpha-value>`
+ * opacity modifiers work (see tailwind-preset.ts). Keep in sync with tokens.ts. */
+
+:root,
+[data-theme="dark"] {
+  --color-background: 9 11 20;
+  --color-surface: 16 20 34;
+  --color-surface-raised: 24 30 51;
+  --color-border: 42 52 84;
+  --color-text: 226 232 255;
+  --color-text-muted: 138 150 190;
+  --color-accent: 34 211 238;
+  --color-accent-foreground: 6 10 20;
+  --color-neon-cyan: 34 211 238;
+  --color-neon-magenta: 236 72 153;
+}
+
+[data-theme="light"] {
+  --color-background: 247 248 252;
+  --color-surface: 255 255 255;
+  --color-surface-raised: 241 243 250;
+  --color-border: 210 216 234;
+  --color-text: 23 27 42;
+  --color-text-muted: 94 104 138;
+  --color-accent: 10 111 137;
+  --color-accent-foreground: 255 255 255;
+  --color-neon-cyan: 8 145 178;
+  --color-neon-magenta: 190 24 118;
+}

@@ -5,7 +5,8 @@
   "type": "module",
   "exports": {
     ".": "./src/index.ts",
-    "./tailwind-preset": "./tailwind-preset.ts"
+    "./tailwind-preset": "./tailwind-preset.ts",
+    "./theme.css": "./src/theme.css"
   },
   "scripts": {
     "typecheck": "tsc -p tsconfig.json --noEmit"

@@ -5,10 +5,13 @@ interface TextLinkProps extends AnchorHTMLAttributes<HTMLAnchorElement> {
   children: ReactNode;
 }
 
-// Underlined inline link in the brand accent colour.
+// Underlined inline link in the neon accent colour.
 export function TextLink({ children, className, ...rest }: TextLinkProps) {
   return (
-    <a {...rest} className={cn("text-brand-700 underline", className)}>
+    <a
+      {...rest}
+      className={cn("text-accent underline hover:text-neon-magenta", className)}
+    >
       {children}
     </a>
   );

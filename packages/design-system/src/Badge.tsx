@@ -6,12 +6,12 @@ interface BadgeProps {
   className?: string;
 }
 
-// Small pill for tags and labels.
+// Small pill for tags and labels, flat neon-magenta.
 export function Badge({ children, className }: BadgeProps) {
   return (
     <span
       className={cn(
-        "rounded-full bg-brand-100 px-2 py-0.5 text-xs text-brand-800",
+        "rounded-full border border-neon-magenta bg-neon-magenta/15 px-2 py-0.5 text-xs font-medium text-neon-magenta",
         className,
       )}
     >

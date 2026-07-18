@@ -4,9 +4,9 @@ import { cn } from "./cn";
 type HeadingLevel = 1 | 2 | 3;
 
 const HEADING_STYLES: Record<HeadingLevel, string> = {
-  1: "text-3xl font-bold text-ink-800",
-  2: "text-xl font-semibold text-brand-800",
-  3: "text-lg font-semibold text-ink-800",
+  1: "text-3xl font-bold text-text",
+  2: "text-xl font-semibold text-accent",
+  3: "text-lg font-semibold text-text",
 };
 
 interface HeadingProps {
@@ -29,7 +29,7 @@ interface TextProps {
 // Body text. `muted` lightens it for secondary information (counts, empty states).
 export function Text({ children, muted, className }: TextProps) {
   return (
-    <p className={cn(muted ? "text-ink-500" : "text-ink-600", className)}>
+    <p className={cn(muted ? "text-text-muted" : "text-text", className)}>
       {children}
     </p>
   );
