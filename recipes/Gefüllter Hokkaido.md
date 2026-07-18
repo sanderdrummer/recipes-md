@@ -1,6 +1,6 @@
 # Gefüllter Hokkaido
 
-## Tags Vegetarisch, Kürbis, Quinoa
+## Tags Kürbis, Quinoa, Vegetarisch, Glutenfrei, Aufwendig
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # Bierteig
 
-## Tags Fritieren
+## Tags Frittieren, Teig, Vegetarisch
 
 ## Zutaten
 

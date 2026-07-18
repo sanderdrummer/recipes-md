@@ -1,6 +1,6 @@
 # Sanfte Kürbissuppe mit Ingwer und Kokosmilch
 
-## Tags vegan,leicht,cremig,abendessen,mittagessen
+## Tags Vegan, Vegetarisch, Suppe, Kürbis, Schnell
 
 ## Zutaten
 

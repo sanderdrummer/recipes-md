@@ -1,6 +1,6 @@
 # Pasta mit grünem Spargel in Parmesanbutter
 
-## Tags Nudeln, Spargel
+## Tags Nudeln, Spargel, Vegetarisch, Italienisch, Schnell
 
 ## Zutaten
 

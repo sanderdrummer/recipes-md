@@ -1,6 +1,6 @@
 # Gebratene Udon Nudeln
 
-## Tags
+## Tags Nudeln, Asiatisch, Vegetarisch, Schnell
 
 ## Zutaten
 

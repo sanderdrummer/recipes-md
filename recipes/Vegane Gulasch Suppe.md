@@ -1,6 +1,6 @@
 # Vegane Gulasch Suppe
 
-## Tags Suppe, Vegetarisch
+## Tags Vegan, Vegetarisch, Suppe, Paprika
 
 ## Zutaten
 

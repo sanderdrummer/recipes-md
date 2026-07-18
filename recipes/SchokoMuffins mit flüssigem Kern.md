@@ -1,6 +1,6 @@
 # SchokoMuffins mit flüssigen Kern
 
-## Tags Backen
+## Tags Backen, Süß, Vegetarisch, Schnell
 
 ## Zutaten
 

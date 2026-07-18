@@ -1,6 +1,6 @@
 # Bavette mit Zucchini Carbonara
 
-## Tags Nudeln, Vegetarisch
+## Tags Nudeln, Vegetarisch, Zucchini, Italienisch, Schnell
 
 ## Zutaten
 

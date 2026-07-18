@@ -1,6 +1,6 @@
 # Ramen
 
-## Tags
+## Tags Suppe, Nudeln, Asiatisch, Schnell
 
 ## Zutaten
 

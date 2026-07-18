@@ -1,6 +1,6 @@
 # Kartoffelpuffer
 
-## Tags Vegetarisch, Kartoffeln
+## Tags Vegan, Vegetarisch, Kartoffeln, Schnell
 
 ## Zutaten
 

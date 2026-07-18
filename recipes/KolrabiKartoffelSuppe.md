@@ -1,6 +1,6 @@
 # Kolrabi Kartoffel Suppe mit Laugenbrezeln
 
-## Tags Suppe, Vegetarisch, Kartoffeln
+## Tags Vegetarisch, Suppe, Kartoffeln, Schnell
 
 ## Zutaten
 

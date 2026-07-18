@@ -1,6 +1,6 @@
 # Gefüllte Paprika
 
-## Tags Paprika
+## Tags Paprika, Rind, Proteinreich
 
 ## Zutaten
 

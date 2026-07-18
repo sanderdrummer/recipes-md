@@ -1,6 +1,6 @@
 # Lasagne
 
-## Tags
+## Tags Lasagne, Nudeln, Italienisch, Backen
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # Ofen Gnocchi
 
-## Tags Vegetarisch, Nudeln, Pilze, Schnell
+## Tags Kartoffeln, Pilze, Backen
 
 ## Zutaten
 

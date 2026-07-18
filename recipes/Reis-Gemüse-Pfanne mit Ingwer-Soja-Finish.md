@@ -1,5 +1,6 @@
 # Reis-Gemüse-Pfanne mit Ingwer-Soja-Finish
 
+## Tags Vegan, Vegetarisch, Reis, Brokkoli, Asiatisch, Schnell
 
 ## Zutaten
 - 50g Basmati-Reis (Rohgewicht)

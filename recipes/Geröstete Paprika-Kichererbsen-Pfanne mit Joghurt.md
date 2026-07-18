@@ -1,6 +1,6 @@
 # Geröstete Paprika-Kichererbsen-Pfanne mit Joghurt
 
-## Tags vegetarisch,proteinreich,schnell,glutenfrei
+## Tags Vegetarisch, Paprika, Proteinreich, Schnell, Glutenfrei
 
 ## Zutaten
 

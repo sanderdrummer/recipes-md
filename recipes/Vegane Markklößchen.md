@@ -1,6 +1,6 @@
 # Vegane Markklößchen
 
-## Tags Suppe, Beilage, Vegetarisch
+## Tags Vegan, Vegetarisch, Suppe, Beilage, Knödel
 
 ## Zutaten
 

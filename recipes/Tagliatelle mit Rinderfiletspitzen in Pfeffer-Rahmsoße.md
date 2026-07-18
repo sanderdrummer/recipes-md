@@ -1,6 +1,6 @@
 # Tagliatelle mit Rinderfiletspitzen in Pfeffer-Rahmsoße
 
-## Tags Steak, Nudeln, Pilze
+## Tags Rind, Nudeln, Pilze, Schnell
 
 ## Zutaten
 

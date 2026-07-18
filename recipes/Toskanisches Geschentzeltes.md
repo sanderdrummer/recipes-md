@@ -1,6 +1,6 @@
 # Toskanisches Geschentzeltes
 
-## Tags
+## Tags Vegan, Vegetarisch, Italienisch, Schnell
 
 ## Zutaten
 

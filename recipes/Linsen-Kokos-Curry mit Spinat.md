@@ -1,6 +1,6 @@
 # Linsen-Kokos-Curry mit Spinat
 
-## Tags vegan,mittagessen,glutenfrei,abendessen
+## Tags Vegan, Vegetarisch, Linsen, Curry, Glutenfrei, Schnell
 
 ## Zutaten
 

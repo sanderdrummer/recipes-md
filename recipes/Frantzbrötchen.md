@@ -1,6 +1,6 @@
 # Frantzbrötchen
 
-## Tags Backen
+## Tags Backen, Süß, Teig, Vegetarisch, Aufwendig
 
 ## Zutaten
 

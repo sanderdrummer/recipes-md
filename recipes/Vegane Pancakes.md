@@ -1,6 +1,6 @@
 # Vegane Pancakes
 
-## Tags Vegan
+## Tags Vegan, Vegetarisch, Süß, Frühstück, Teig
 
 ## Zutaten
 

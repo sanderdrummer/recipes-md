@@ -1,6 +1,6 @@
 # Erbsenrösti
 
-## Tags Vegetarisch, Kartofffeln
+## Tags Vegetarisch, Kartoffeln, Aufwendig
 
 ## Zutaten
 

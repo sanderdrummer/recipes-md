@@ -1,6 +1,6 @@
 # Schnelle Hochzeitssuppe
 
-## Tags Suppe, Vegetarisch
+## Tags Suppe, Nudeln, Vegetarisch, Schnell
 
 ## Zutaten
 

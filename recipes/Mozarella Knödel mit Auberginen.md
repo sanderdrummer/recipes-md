@@ -1,6 +1,6 @@
 # Mozzarella Knödel mit Aubergine
 
-## Tags
+## Tags Vegetarisch, Knödel, Auberginen
 
 ## Zutaten
 

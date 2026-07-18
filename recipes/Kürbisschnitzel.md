@@ -1,6 +1,6 @@
 # Kürbisschnitzel
 
-## Tags
+## Tags Vegetarisch, Kürbis, Kartoffeln, Brokkoli, Aufwendig
 
 ## Zutaten
 

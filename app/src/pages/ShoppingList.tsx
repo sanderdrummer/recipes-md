@@ -1,7 +1,10 @@
 import { Button, Heading, Input, Text } from "@recipes-md/design-system";
 import { type FormEvent, useState } from "react";
+import ScanListDialog from "../components/ScanListDialog";
+import ShareListDialog from "../components/ShareListDialog";
 import {
   add,
+  addMany,
   clearChecked,
   toggle,
   useShoppingList,
@@ -10,12 +13,24 @@ import {
 export default function ShoppingList() {
   const items = useShoppingList();
   const [text, setText] = useState("");
+  const [dialog, setDialog] = useState<"share" | "scan" | null>(null);
+  const [notice, setNotice] = useState("");
   const hasChecked = items.some((i) => i.checked);
+  const unchecked = items.filter((i) => !i.checked);
 
   function submit(e: FormEvent) {
     e.preventDefault();
     add(text);
     setText("");
+  }
+
+  function importScanned(texts: string[]) {
+    addMany(texts);
+    setNotice(
+      texts.length === 1
+        ? "1 Artikel hinzugefügt"
+        : `${texts.length} Artikel hinzugefügt`,
+    );
   }
 
   return (
@@ -31,6 +46,17 @@ export default function ShoppingList() {
         />
         <Button type="submit">Hinzufügen</Button>
       </form>
+
+      <div className="mt-4 flex gap-2">
+        {unchecked.length > 0 && (
+          <Button onClick={() => setDialog("share")}>Teilen</Button>
+        )}
+        <Button onClick={() => setDialog("scan")}>Scannen</Button>
+      </div>
+
+      <p aria-live="polite" className="mt-2 text-text-muted">
+        {notice}
+      </p>
 
       {items.length === 0 ? (
         <Text muted className="mt-6">
@@ -64,6 +90,19 @@ export default function ShoppingList() {
         <Button onClick={clearChecked} className="mt-6">
           Erledigte löschen
         </Button>
+      )}
+
+      {dialog === "share" && (
+        <ShareListDialog
+          texts={unchecked.map((i) => i.text)}
+          onClose={() => setDialog(null)}
+        />
+      )}
+      {dialog === "scan" && (
+        <ScanListDialog
+          onScanned={importScanned}
+          onClose={() => setDialog(null)}
+        />
       )}
     </div>
   );

@@ -1,6 +1,6 @@
 # Gnocchi Salat mit gegrillten Tomaten
 
-## Tags Salat, Vegetarisch
+## Tags Salat, Vegetarisch, Schnell
 
 ## Zutaten
 

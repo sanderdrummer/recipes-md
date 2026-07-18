@@ -1,6 +1,6 @@
 # Hafer Schnitzel
 
-## Tags Vegetarisch, Reis, Schnitzel
+## Tags Vegetarisch, Proteinreich, Schnell
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # Mediterrane Shakshuka
 
-
+## Tags Vegetarisch, Paprika, Schnell, Glutenfrei
 
 ## Zutaten
 * 2 Eier

@@ -1,6 +1,6 @@
 # Fettuccine Alfredo Vegan
 
-## Tags Nudeln Vegan
+## Tags Nudeln, Vegan, Vegetarisch, Italienisch, Schnell
 
 ## Zutaten
 

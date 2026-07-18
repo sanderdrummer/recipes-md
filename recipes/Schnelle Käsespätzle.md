@@ -1,6 +1,6 @@
 # Schnelle Käsespätzle
 
-## Tags
+## Tags Nudeln, Vegetarisch, Schnell
 
 ## Zutaten
 

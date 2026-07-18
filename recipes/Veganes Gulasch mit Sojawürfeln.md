@@ -1,6 +1,6 @@
 # Veganes Gulasch mit Sojawürfeln
 
-## Tags Vegetarisch, Aufwendig
+## Tags Vegan, Vegetarisch, Paprika, Aufwendig
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # Pilzrahm Vegan
 
-## Tags
+## Tags Vegan, Vegetarisch, Pilze, Sauce, Schnell
 
 ## Zutaten
 

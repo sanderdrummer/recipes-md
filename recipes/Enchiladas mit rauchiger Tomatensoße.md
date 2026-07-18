@@ -1,6 +1,6 @@
 # Enchiladas mit rauchiger Tomatensoße
 
-## Tags Mexikanisch, Wraps
+## Tags Mexikanisch, Wraps, Vegetarisch, Paprika
 
 ## Zutaten
 

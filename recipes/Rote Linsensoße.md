@@ -1,6 +1,6 @@
 # Rote Linsensoße
 
-## Tags Nudeln, Vegetarisch, Linsen
+## Tags Sauce, Linsen, Vegetarisch, Schnell
 
 ## Zutaten
 

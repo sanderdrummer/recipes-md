@@ -1,6 +1,6 @@
 # Spaghetti Bolognese
 
-## Tags Nudeln, Lasagne
+## Tags Vegetarisch, Nudeln, Sauce, Italienisch
 
 ## Zutaten
 

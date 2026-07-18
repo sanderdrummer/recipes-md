@@ -1,6 +1,6 @@
 # Cremiges Kürbis-Risotto (leicht & bekömmlich)
 
-## Tags vegetarisch,hauptgericht,glutenfrei,kürbis
+## Tags Vegetarisch, Kürbis, Risotto, Reis, Glutenfrei
 
 ## Zutaten
 

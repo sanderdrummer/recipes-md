@@ -1,6 +1,6 @@
 # Belgische Waffeln mit Hagelzucker
 
-## Tags Backen, Süß, Waffeln
+## Tags Waffeln, Süß, Teig, Vegetarisch
 
 ## Zutaten
 

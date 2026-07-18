@@ -1,6 +1,6 @@
 # Spargel Risotto
 
-## Tags Reis, Spargel
+## Tags Vegetarisch, Risotto, Reis, Spargel
 
 ## Zutaten
 

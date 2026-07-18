@@ -1,6 +1,6 @@
 # Kokos Kürbis Suppe
 
-## Tags
+## Tags Vegan, Vegetarisch, Suppe, Kürbis, Glutenfrei, Schnell
 
 ## Zutaten
 

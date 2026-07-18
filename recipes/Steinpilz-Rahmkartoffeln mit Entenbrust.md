@@ -1,6 +1,6 @@
 # Steinpilz-Rahmkartoffeln mit Entenbrust
 
-## Tags Aufwendig, Pilze
+## Tags Ente, Kartoffeln, Pilze, Aufwendig, Glutenfrei
 
 ## Zutaten
 

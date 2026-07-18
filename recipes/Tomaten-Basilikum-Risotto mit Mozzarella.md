@@ -1,6 +1,6 @@
 # Tomaten Basilikum Risotto mit Mozzarella
 
-## Tags Risotto
+## Tags Vegetarisch, Risotto, Reis, Italienisch
 
 ## Zutaten
 

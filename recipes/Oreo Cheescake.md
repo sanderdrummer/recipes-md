@@ -1,6 +1,6 @@
 # Oreo Blueberry Cheescake
 
-## Tags
+## Tags Vegetarisch, Backen, Süß, Aufwendig
 
 ## Zutaten
 

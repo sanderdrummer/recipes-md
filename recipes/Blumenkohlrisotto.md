@@ -1,6 +1,6 @@
 # Blumenkohl-Risotto
 
-## Tags, Blumenkohl, Risotto, Vegetarisch
+## Tags Blumenkohl, Risotto, Reis, Vegetarisch
 
 ## Zutaten
 

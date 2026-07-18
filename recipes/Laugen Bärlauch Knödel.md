@@ -1,6 +1,6 @@
 # Laugen Bärlauch Knödel
 
-## Tags Schnell, Vegetarisch
+## Tags Knödel, Backen, Aufwendig
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # Schnelle braune Sosse
 
-## Tags
+## Tags Vegan, Vegetarisch, Sauce, Schnell
 
 ## Zutaten
 

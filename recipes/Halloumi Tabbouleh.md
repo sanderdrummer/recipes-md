@@ -1,6 +1,6 @@
 # Halloumi Tabbouleh
 
-## Tags Vegetarisch, Linsen, Halloumi
+## Tags Vegetarisch, Linsen, Salat, Schnell
 
 ## Zutaten
 

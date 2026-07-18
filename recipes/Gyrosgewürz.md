@@ -1,6 +1,6 @@
 # Gyrosgewürz
 
-## Tags
+## Tags Gewürz, Vegan, Vegetarisch, Glutenfrei
 
 ## Zutaten
 

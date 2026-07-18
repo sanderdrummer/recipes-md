@@ -1,6 +1,6 @@
 # Hartweizennudeln
 
-## Tags Nudeln
+## Tags Vegan, Vegetarisch, Nudeln, Teig
 
 ## Zutaten
 

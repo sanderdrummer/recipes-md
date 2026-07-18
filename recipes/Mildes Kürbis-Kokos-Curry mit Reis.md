@@ -1,6 +1,6 @@
 # Mildes Kürbis-Kokos-Curry mit Reis
 
-## Tags vegan,hauptspeise,basisch,glutenfrei
+## Tags Vegan, Vegetarisch, Kürbis, Curry, Reis, Glutenfrei
 
 ## Zutaten
 

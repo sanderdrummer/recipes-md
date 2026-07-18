@@ -1,6 +1,6 @@
 # Tofu Wraps mit Senf-Dill-Soße (Vegan)
 
-## Tags
+## Tags Vegan, Vegetarisch, Tofu, Wraps, Schnell
 
 ## Zutaten
 - 340Gramm festes Tofu, abgetropft und gerieben

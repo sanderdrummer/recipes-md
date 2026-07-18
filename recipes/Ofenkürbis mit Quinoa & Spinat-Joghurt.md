@@ -1,6 +1,6 @@
 # Ofenkürbis mit Quinoa & Spinat-Joghurt
 
-## Tags vegetarisch,hauptspeise,proteinreich,glutenfrei
+## Tags Vegetarisch, Kürbis, Quinoa, Proteinreich, Glutenfrei
 
 ## Zutaten
 

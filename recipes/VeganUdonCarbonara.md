@@ -1,6 +1,6 @@
 # Vegane Udon Carbonara
 
-## Tags
+## Tags Vegan, Vegetarisch, Nudeln, Tofu, Asiatisch, Schnell
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # ZwiebelPasta
 
-## Tags
+## Tags Vegan, Vegetarisch, Nudeln, Schnell
 
 ## Zutaten
 

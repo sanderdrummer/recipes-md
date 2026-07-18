@@ -1,6 +1,6 @@
 # Bechamel - Lasagne
 
-## Tags Lasagne, Nudeln, Vegetarisch
+## Tags Sauce, Vegetarisch, Lasagne, Schnell
 
 ## Zutaten
 

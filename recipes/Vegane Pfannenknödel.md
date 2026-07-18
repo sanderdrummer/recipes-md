@@ -1,6 +1,6 @@
 # Vegane, schnelle Knödel aus der Pfanne
 
-## Tags Vegetarisch, Beilage
+## Tags Vegan, Vegetarisch, Knödel, Beilage, Schnell
 
 ## Zutaten
 

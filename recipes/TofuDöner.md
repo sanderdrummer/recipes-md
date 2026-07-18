@@ -1,6 +1,6 @@
 # TofuDöner
 
-## Tags
+## Tags Vegetarisch, Tofu, Wraps, Schnell
 
 ## Zutaten
 

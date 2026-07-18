@@ -1,6 +1,6 @@
 # Soja Paprika Pfanne
 
-## Tags Vegetarisch, Pilze, Reis
+## Tags Vegan, Vegetarisch, Paprika, Pilze, Reis, Schnell
 
 ## Zutaten
 

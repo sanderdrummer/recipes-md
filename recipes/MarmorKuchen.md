@@ -1,6 +1,6 @@
 # Marmorkuchen
 
-## Tags
+## Tags Vegetarisch, Backen, Süß, Teig
 
 ## Zutaten
 

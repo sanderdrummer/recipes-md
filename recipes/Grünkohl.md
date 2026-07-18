@@ -1,6 +1,6 @@
 # Grünkohl
 
-## Tags
+## Tags Eintopf, Grünkohl, Schnell
 
 ## Zutaten
 

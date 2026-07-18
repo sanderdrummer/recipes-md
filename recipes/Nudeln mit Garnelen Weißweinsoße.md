@@ -1,6 +1,6 @@
 # Nudeln mit Garnelen Weißweinsoße
 
-## Tags Nudeln
+## Tags Nudeln, Garnelen, Italienisch, Schnell
 
 ## Zutaten
 

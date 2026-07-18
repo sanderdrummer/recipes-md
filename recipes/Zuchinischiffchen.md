@@ -1,6 +1,6 @@
 # Zuchinischiffchen
 
-## Tags Zucchini, Quinoa
+## Tags Vegetarisch, Zucchini, Quinoa, Glutenfrei
 
 ## Zutaten
 

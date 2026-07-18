@@ -1,6 +1,6 @@
 # Fajitas mit Paprika und Pilzen
 
-## Tags Mexikanisch, Wraps, Vegetarisch
+## Tags Mexikanisch, Wraps, Vegetarisch, Paprika, Pilze
 
 ## Zutaten
 

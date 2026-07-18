@@ -1,6 +1,6 @@
 # Kürbis Nudelauflauf
 
-## Tags
+## Tags Vegetarisch, Nudeln, Kürbis, Backen
 
 ## Zutaten
 

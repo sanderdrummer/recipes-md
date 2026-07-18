@@ -1,6 +1,6 @@
 # Carrot Dogs
 
-## Tags Vegetarisch
+## Tags Vegan, Vegetarisch, Grillen, Aufwendig
 
 ## Zutaten
 

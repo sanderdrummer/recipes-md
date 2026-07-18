@@ -1,6 +1,6 @@
 # Cajun Curry
 
-## Tags
+## Tags Vegetarisch, Kartoffeln, Blumenkohl, Brokkoli, Schnell
 
 ## Zutaten
 

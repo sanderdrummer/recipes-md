@@ -1,6 +1,6 @@
 # Südtiroler Hirtenmakkaroni
 
-## Tags
+## Tags Nudeln, Rind, Italienisch
 
 ## Zutaten
 

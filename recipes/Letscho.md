@@ -1,6 +1,6 @@
 # Letscho
 
-## Tags Paprika, Reis, Vegetarisch
+## Tags Vegan, Vegetarisch, Paprika, Reis, Schnell
 
 ## Zutaten
 

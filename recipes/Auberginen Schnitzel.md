@@ -1,6 +1,6 @@
 # Auberginen Schnitzel
 
-## Tags
+## Tags Vegan, Vegetarisch, Auberginen
 
 ## Zutaten
 

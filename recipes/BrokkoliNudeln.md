@@ -1,6 +1,6 @@
 # BrokkoliNudeln
 
-## Tags Nudeln, Brokkoli, Vegetarisch
+## Tags Nudeln, Brokkoli, Vegan, Vegetarisch, Schnell
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # Hula Hula Bang Bang
 
-## Tags Cocktail
+## Tags Cocktail, Vegan, Vegetarisch, Schnell
 
 ## Zutaten
 

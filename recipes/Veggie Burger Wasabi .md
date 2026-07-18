@@ -1,6 +1,6 @@
 # Veggie Burger Wasabi
 
-## Tags Vegetarisch, Aufwendig
+## Tags Vegetarisch, Kartoffeln, Aufwendig
 
 ## Zutaten
 

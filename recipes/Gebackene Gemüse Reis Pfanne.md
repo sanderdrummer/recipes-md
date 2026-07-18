@@ -1,6 +1,6 @@
 # Gebackene Gemüse Reis Pfanne
 
-## Tags
+## Tags Reis, Paprika, Zucchini, Auberginen, Vegan, Vegetarisch
 
 ## Zutaten
 

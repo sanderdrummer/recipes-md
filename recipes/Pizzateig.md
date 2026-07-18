@@ -1,6 +1,6 @@
 # Pizzateig
 
-## Tags Pizza
+## Tags Pizza, Teig, Vegan, Vegetarisch, Italienisch, Aufwendig
 
 ## Zutaten
 

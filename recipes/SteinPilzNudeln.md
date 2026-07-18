@@ -1,6 +1,6 @@
 # Stein Pilz Nudeln
 
-## Tags Nudeln vegan pilze
+## Tags Vegan, Vegetarisch, Nudeln, Pilze
 
 ## Zutaten
 

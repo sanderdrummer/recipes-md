@@ -1,6 +1,6 @@
 # Garnelen Nudeln
 
-## Tags
+## Tags Nudeln, Garnelen, Fisch, Italienisch, Schnell
 
 ## Zutaten
 

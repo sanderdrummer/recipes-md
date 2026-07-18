@@ -1,6 +1,6 @@
 # Pulled Aubergine
 
-## Tags Vegetarisch, Aubergine, Eggplant, BBQ
+## Tags Vegan, Vegetarisch, Auberginen, Aufwendig
 
 ## Zutaten
 

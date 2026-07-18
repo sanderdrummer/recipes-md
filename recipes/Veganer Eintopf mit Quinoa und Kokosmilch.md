@@ -1,6 +1,6 @@
 # Veganer Eintopf mit Quinoa und Kokosmilch
 
-## Tags Vegetarisch, Zucchini, Quinoa
+## Tags Vegan, Vegetarisch, Eintopf, Quinoa, Zucchini, Paprika
 
 ## Zutaten
 

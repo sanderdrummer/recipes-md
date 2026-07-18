@@ -1,6 +1,6 @@
 # Flammkuchen Teig
 
-## Tags Vegetarisch
+## Tags Teig, Backen, Vegan, Vegetarisch, Schnell
 
 ## Zutaten
 

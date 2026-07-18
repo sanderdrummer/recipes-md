@@ -1,6 +1,6 @@
 # Lebkuchen
 
-## Tags backen
+## Tags Vegetarisch, Backen, Süß, Aufwendig
 
 ## Zutaten
 

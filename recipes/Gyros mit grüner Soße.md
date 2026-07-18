@@ -1,6 +1,6 @@
 # Gyros mit grüner Soße
 
-## Tags
+## Tags Vegetarisch, Proteinreich, Schnell
 
 ## Zutaten
 

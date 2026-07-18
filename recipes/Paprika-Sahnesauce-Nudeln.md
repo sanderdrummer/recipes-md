@@ -1,6 +1,6 @@
 # Nudeln mit Paprika-Sahnesauce
 
-## Tags
+## Tags Nudeln, Paprika, Sauce, Vegetarisch, Schnell
 
 ## Zutaten
 

@@ -1,8 +1,6 @@
 # Mediterrane Umami-Bulgur-Bowl mit Balsamico-Pilzen und Schmortomaten
 
-## Tags
-
-vegan, sommer, soulfood, umami, leicht-bekömmlich, low-calorie, mealprep, nussfrei
+## Tags Vegan, Vegetarisch, Pilze, Zucchini, Schnell
 
 ## Zutaten
 

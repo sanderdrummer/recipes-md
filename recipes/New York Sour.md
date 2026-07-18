@@ -1,6 +1,6 @@
 # New York Sour
 
-## Tags
+## Tags Cocktail, Süß, Schnell
 
 ## Zutaten
 

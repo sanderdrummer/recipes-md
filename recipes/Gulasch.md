@@ -1,6 +1,6 @@
 # Gulasch
 
-## Tags Rind, Rotwein
+## Tags Rind, Eintopf, Rotwein
 
 ## Zutaten
 

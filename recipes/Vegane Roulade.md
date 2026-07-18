@@ -1,6 +1,6 @@
 # Vegane Roulade
 
-## Tags Vegetarisch, Aufwendig
+## Tags Vegan, Vegetarisch, Sauce, Aufwendig
 
 ## Zutaten
 

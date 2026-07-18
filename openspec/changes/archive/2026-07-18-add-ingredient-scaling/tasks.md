@@ -12,9 +12,9 @@
 
 ## 3. Shopping-list merging
 
-- [ ] 3.1 Extend `add`/`addMany` in `app/src/lib/shopping-list.ts`: parseable input merges into unchecked item with same unit + case-insensitive name (sum amounts, rewrite text); checked items never merged into; unparseable input keeps exact-text skip
-- [ ] 3.2 Unit tests for merge, unit mismatch, checked-item, and unparseable-duplicate scenarios
+- [x] 3.1 Extend `add`/`addMany` in `app/src/lib/shopping-list.ts`: parseable input merges into unchecked item with same unit + case-insensitive name (sum amounts, rewrite text); checked items never merged into; unparseable input keeps exact-text skip
+- [x] 3.2 Unit tests for merge, unit mismatch, checked-item, and unparseable-duplicate scenarios
 
 ## 4. Verify
 
-- [ ] 4.1 Run Biome + tsc + tests; manual keyboard pass over the scale selector (arrow keys, focus visibility)
+- [x] 4.1 Run Biome + tsc + tests; manual keyboard pass over the scale selector (arrow keys, focus visibility)

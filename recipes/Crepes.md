@@ -1,6 +1,6 @@
 # Crepes
 
-## Tags Backen, Süß
+## Tags Süß, Teig, Vegetarisch, Schnell
 
 ## Zutaten
 

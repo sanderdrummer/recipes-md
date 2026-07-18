@@ -1,6 +1,6 @@
 # Jackfruit Gulasch
 
-## Tags
+## Tags Vegan, Vegetarisch, Eintopf, Schnell
 
 ## Zutaten
 

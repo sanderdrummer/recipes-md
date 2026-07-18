@@ -1,6 +1,6 @@
 # Hähnchen
 
-## Tags, Spargel, Aufwendig
+## Tags Hähnchen, Proteinreich, Aufwendig
 
 ## Zutaten
 

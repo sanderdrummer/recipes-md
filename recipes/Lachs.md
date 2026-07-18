@@ -1,6 +1,6 @@
 # Der perfekte Lachs
 
-## Tags
+## Tags Fisch, Schnell, Glutenfrei
 
 ## Zutaten
 

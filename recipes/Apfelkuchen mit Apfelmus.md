@@ -1,6 +1,6 @@
 # Apfelkuchen mit Apfelmus
 
-## Tags Backen
+## Tags Backen, Süß, Vegetarisch
 
 ## Zutaten
 

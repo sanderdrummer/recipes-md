@@ -1,6 +1,6 @@
 # Pancakes
 
-## Tags Frühstück, Vegetarisch
+## Tags Frühstück, Vegetarisch, Süß, Schnell
 
 ## Zutaten
 

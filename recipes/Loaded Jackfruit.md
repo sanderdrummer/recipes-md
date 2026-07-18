@@ -1,6 +1,6 @@
 # Loaded Jackfruit
 
-## Tags
+## Tags Vegan, Vegetarisch, Kartoffeln, Schnell
 
 ## Zutaten
 

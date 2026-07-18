@@ -1,6 +1,6 @@
 # Zitronenkuchen
 
-## Tags Süß, Backen
+## Tags Vegetarisch, Süß, Backen, Teig
 
 ## Zutaten
 

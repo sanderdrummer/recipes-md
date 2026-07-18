@@ -1,6 +1,6 @@
 # Title Leichte Veggie-Protein-Wraps mit Räuchertofu
 
-## Tags vegetarisch,proteinreich,sportler,abendessen
+## Tags Vegetarisch, Wraps, Tofu, Proteinreich, Schnell
 
 ## Zutaten
 

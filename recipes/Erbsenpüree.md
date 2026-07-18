@@ -1,6 +1,6 @@
 # Erbsenpüree
 
-## Tags Steak, Beilage
+## Tags Beilage, Vegetarisch, Glutenfrei, Schnell
 
 ## Zutaten
 

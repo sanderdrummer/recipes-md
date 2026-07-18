@@ -1,6 +1,6 @@
 # Whiskey Sour
 
-## Tags
+## Tags Cocktail, Vegetarisch, Schnell
 
 ## Zutaten
 

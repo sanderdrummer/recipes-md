@@ -1,6 +1,6 @@
 # Leichte Quinoa-Bowl mit Brokkoli, Spinat & Wasabi-Sriracha
 
-## Tags vegan,hauptspeise,proteinreich,glutenfrei
+## Tags Vegetarisch, Quinoa, Tofu, Brokkoli, Proteinreich, Glutenfrei
 
 ## Zutaten
 

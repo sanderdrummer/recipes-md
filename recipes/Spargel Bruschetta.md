@@ -1,6 +1,6 @@
 # Spargel Bruschetta
 
-## Tags Italienisch, Spargel
+## Tags Vegetarisch, Spargel, Italienisch, Schnell
 
 ## Zutaten
 

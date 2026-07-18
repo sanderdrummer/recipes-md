@@ -1,6 +1,6 @@
 # Vegane Kokosmakronen
 
-## Tags Backen
+## Tags Vegan, Vegetarisch, Backen, Süß
 
 ## Zutaten
 

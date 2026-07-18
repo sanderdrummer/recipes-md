@@ -1,6 +1,6 @@
 # Waffeln
 
-## Tags Süß, Backen
+## Tags Vegetarisch, Süß, Waffeln, Teig
 
 ## Zutaten
 

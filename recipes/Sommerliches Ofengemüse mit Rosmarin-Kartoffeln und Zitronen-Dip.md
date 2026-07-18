@@ -1,8 +1,6 @@
 # Sommerliches Ofengemüse mit Rosmarin-Kartoffeln und Zitronen-Dip
 
-## Tags
-
-vegan, sommer, leicht-bekömmlich, low-calorie, mealprep, nussfrei, glutenfrei
+## Tags Vegan, Vegetarisch, Kartoffeln, Zucchini, Paprika, Glutenfrei
 
 ## Zutaten
 

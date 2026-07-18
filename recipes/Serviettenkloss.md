@@ -1,6 +1,6 @@
 # Serviettenkloss
 
-## Tags Beilage, Hähnchen, Spargel, Vegetarisch
+## Tags Beilage, Knödel, Vegetarisch
 
 ## Zutaten
 
