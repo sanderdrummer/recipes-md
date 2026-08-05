@@ -1,10 +1,10 @@
 import { Container, Text, ThemeToggle } from "@recipes-md/design-system";
 import { Route, Router, Switch } from "wouter";
 import { useHashLocation } from "wouter/use-hash-location";
-import { useShoppingList } from "./lib/shopping-list";
-import Overview from "./pages/Overview";
-import Recipe from "./pages/Recipe";
-import ShoppingList from "./pages/ShoppingList";
+import Overview from "@/features/recipes/Overview";
+import Recipe from "@/features/recipes/Recipe";
+import ShoppingList from "@/features/shopping-list/ShoppingList";
+import { useShoppingList } from "@/features/shopping-list/shopping-list";
 
 export default function App() {
   const items = useShoppingList();

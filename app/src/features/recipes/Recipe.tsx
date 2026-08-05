@@ -8,9 +8,13 @@ import {
 } from "@recipes-md/design-system";
 import { useState } from "react";
 import { useLocation, useParams } from "wouter";
-import { scaleIngredient } from "../lib/ingredients";
-import { getBySlug, splitQuantity, splitStepLabel } from "../lib/recipes";
-import { addMany } from "../lib/shopping-list";
+import {
+  getBySlug,
+  splitQuantity,
+  splitStepLabel,
+} from "@/features/recipes/recipes";
+import { addMany } from "@/features/shopping-list/shopping-list";
+import { scaleIngredient } from "@/shared/ingredients";
 
 const SCALES = [
   { value: 0.5, label: "½×" },

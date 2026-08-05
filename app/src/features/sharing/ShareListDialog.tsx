@@ -1,7 +1,7 @@
 import { Button, Text } from "@recipes-md/design-system";
 import QRCode from "qrcode";
 import { useEffect, useRef, useState } from "react";
-import { encodeShare, ShareCodecError } from "../lib/share-codec";
+import { encodeShare, ShareCodecError } from "@/features/sharing/share-codec";
 
 interface ShareListDialogProps {
   texts: string[];

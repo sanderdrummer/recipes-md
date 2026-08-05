@@ -1,7 +1,7 @@
 import { Button, Text } from "@recipes-md/design-system";
 import jsQR from "jsqr";
 import { useEffect, useRef, useState } from "react";
-import { decodeShare, ShareCodecError } from "../lib/share-codec";
+import { decodeShare, ShareCodecError } from "@/features/sharing/share-codec";
 
 interface ScanListDialogProps {
   onScanned: (texts: string[]) => void;

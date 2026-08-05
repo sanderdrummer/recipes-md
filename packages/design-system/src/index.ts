@@ -11,6 +11,7 @@ export { Container } from "./Container";
 export { cn } from "./cn";
 export { Heading, Text } from "./Heading";
 export { Input } from "./Input";
+export { Textarea } from "./Textarea";
 export { TextLink } from "./TextLink";
 export { ThemeToggle } from "./ThemeToggle";
 export { useTheme } from "./theme";

@@ -7,8 +7,8 @@ export interface Recipe {
 }
 
 // Load every recipe markdown file at build time as raw text.
-// recipes/ lives at the repo root, one level above app/.
-const modules = import.meta.glob<string>("../../../recipes/*.md", {
+// recipes/ lives at the repo root, above app/src/features/recipes/.
+const modules = import.meta.glob<string>("../../../../recipes/*.md", {
   query: "?raw",
   import: "default",
   eager: true,

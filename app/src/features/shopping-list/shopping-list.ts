@@ -1,5 +1,5 @@
 import { useSyncExternalStore } from "react";
-import { formatIngredient, parseIngredient } from "./ingredients";
+import { formatIngredient, parseIngredient } from "@/shared/ingredients";
 
 export interface ShoppingItem {
   id: string;

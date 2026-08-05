@@ -1,5 +1,5 @@
 import { Badge, Card, cn, Heading } from "@recipes-md/design-system";
-import type { Recipe } from "../lib/recipes";
+import type { Recipe } from "@/features/recipes/recipes";
 
 interface RecipeCardProps {
   recipe: Recipe;
