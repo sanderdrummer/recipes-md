@@ -64,8 +64,13 @@ function sectionLines(text: string, heading: string): string[] {
 function parseIngredients(text: string): string[] {
   return sectionLines(text, "Zutaten")
     .map((l) => l.trim())
-    .filter((l) => l.startsWith("-"))
-    .map((l) => l.replace(/^-\s*/, "").replace(/\t/g, " ").trim())
+    .filter((l) => /^[-*]/.test(l))
+    .map((l) =>
+      l
+        .replace(/^[-*]\s*/, "")
+        .replace(/\t/g, " ")
+        .trim(),
+    )
     .filter(Boolean);
 }
 
