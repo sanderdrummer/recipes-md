@@ -1,11 +1,18 @@
 import { useCallback, useEffect, useState } from "react";
-import type { ThemeName } from "./tokens";
+import { type ThemeName, themes } from "./tokens";
 
 const STORAGE_KEY = "theme";
 
+// Cycle order of the toggle.
+const successor: Record<ThemeName, ThemeName> = {
+  dark: "light",
+  light: "cozy",
+  cozy: "dark",
+};
+
 function readStored(): ThemeName | null {
   const value = localStorage.getItem(STORAGE_KEY);
-  return value === "dark" || value === "light" ? value : null;
+  return value !== null && value in themes ? (value as ThemeName) : null;
 }
 
 // Resolve the initial theme: stored preference wins, else prefers-color-scheme,
@@ -22,7 +29,12 @@ function apply(theme: ThemeName): void {
   document.documentElement.dataset.theme = theme;
 }
 
-// Read the active theme, and toggle it (persisting to localStorage + document root).
+export function nextTheme(current: ThemeName): ThemeName {
+  return successor[current];
+}
+
+// Read the active theme, and cycle through all themes (persisting to
+// localStorage + document root).
 export function useTheme(): { theme: ThemeName; toggle: () => void } {
   const [theme, setTheme] = useState<ThemeName>(resolveInitial);
 
@@ -32,7 +44,7 @@ export function useTheme(): { theme: ThemeName; toggle: () => void } {
 
   const toggle = useCallback(() => {
     setTheme((current) => {
-      const next: ThemeName = current === "dark" ? "light" : "dark";
+      const next = nextTheme(current);
       localStorage.setItem(STORAGE_KEY, next);
       return next;
     });

@@ -28,3 +28,16 @@
   --color-neon-cyan: 8 145 178;
   --color-neon-magenta: 190 24 118;
 }
+
+[data-theme="cozy"] {
+  --color-background: 253 246 240;
+  --color-surface: 255 251 248;
+  --color-surface-raised: 248 238 232;
+  --color-border: 199 168 155;
+  --color-text: 61 44 40;
+  --color-text-muted: 122 96 88;
+  --color-accent: 176 58 91;
+  --color-accent-foreground: 255 255 255;
+  --color-neon-cyan: 15 110 107;
+  --color-neon-magenta: 142 63 115;
+}

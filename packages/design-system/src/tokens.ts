@@ -2,7 +2,7 @@
 //
 // Color is expressed as ROLES (surface, text, accent, …), never raw scales. Each
 // role resolves at runtime to a CSS custom property defined in `theme.css`, so the
-// same class name yields the dark (default, cyberpunk) or light value depending on
+// same class name yields the dark (default, cyberpunk), light or cozy value depending on
 // the active `data-theme`. Values are stored as space-separated RGB channel triplets
 // so Tailwind's opacity modifiers (`bg-surface/80`) keep working via `<alpha-value>`.
 
@@ -48,6 +48,18 @@ export const themes = {
     "accent-foreground": "255 255 255",
     "neon-cyan": "8 145 178",
     "neon-magenta": "190 24 118",
+  },
+  cozy: {
+    background: "253 246 240", // warm cream
+    surface: "255 251 248",
+    "surface-raised": "248 238 232",
+    border: "199 168 155", // ~3.8:1 on background
+    text: "61 44 40", // deep warm brown
+    "text-muted": "122 96 88",
+    accent: "176 58 91", // muted rose: AA (~5.4:1) as text on the cream surfaces
+    "accent-foreground": "255 255 255",
+    "neon-cyan": "15 110 107", // dusty teal
+    "neon-magenta": "142 63 115", // plum
   },
 } as const satisfies Record<string, Record<ColorRole, string>>;
 
