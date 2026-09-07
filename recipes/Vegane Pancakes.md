@@ -17,3 +17,9 @@
 ## Zubereitung
 
 Zunächst alle trockenen Zutaten mischen und anschließend die nassen Zutaten hinzufügen. Alles gut mit dem Schneebesen verrühren. Für ein besonders gutes Ergebnis über Nacht abgedeckt in den Kühlschrank stellen. Der Teig kann aber auch direkt verwendet werden. Etwas Pflanzenfett in einer Pfanne erhitzen, kleine Teigportionen in das heiße Fett geben und goldbraun backen, dann wenden und fertig backen.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 440 kcal
+- Ballaststoffe: 4 g
+- Protein: 11 g

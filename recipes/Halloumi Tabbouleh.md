@@ -25,3 +25,9 @@ Tomaten und Frühlingszwiebeln schneiden und einer Schüssel mit 1El Olivenöl u
 Halloumi würzen und in einer Pfanne von beiden Seiten 3min anbraten.
 
 Linsen abgiesen unter das Tabbouleh mischen und zusammen mit Minzjogurt und Halloumi anrichten.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 730 kcal
+- Ballaststoffe: 8 g
+- Protein: 39 g

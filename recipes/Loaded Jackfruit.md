@@ -14,3 +14,9 @@
 
 Schnelle braune Sosse ansetzen.
 Die Jackfruit abgießen. Pflanzenöl in einer Pfanne erhitzen und die Jackfruit ca. 4 Minuten scharf anbraten, damit sie etwas bräunt. Ca. 5 Esslöffel der braunen Soße, sowie BBQSauce, Senf und Agavendicksaft dazugeben und gut vermengen. Die Jackfruit weitere ca. 5 Minuten (evtl. auch mit Deckel) garen, bis sie weicher wird und ihr sie mit zwei Gabeln auseinanderziehen könnt, damit sie wie eine Art „Pulled Jackfruit“ aussieht. Nach Geschmack mehr BBQSauce, Senf oder Agavendicksaft dazugeben und die Jackfruit weiterbraten, bis die Kroketten fertig sind.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 475 kcal
+- Ballaststoffe: 6 g
+- Protein: 5 g

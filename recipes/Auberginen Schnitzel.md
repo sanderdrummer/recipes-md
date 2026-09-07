@@ -17,3 +17,9 @@ Dann schälen und etwas flach drücken.
 Aus Mehl und Gewürzen eine Panade herstellen.
 Erst ins Mehl dann in die Semmelbrösel  
 anschliesen in der Pfanne ausbacken.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 500 kcal
+- Ballaststoffe: 9 g
+- Protein: 11 g

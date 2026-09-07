@@ -21,3 +21,9 @@ Nach 30 Minuten die Brühe dazu geben.
 
 10 Minuten vor Ende die Temperatur auf 230 Grad erhöhen und die Marinade mit Zucker mischen
 damit die Haut karamlisiert.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 420 kcal
+- Ballaststoffe: 3 g
+- Protein: 45 g

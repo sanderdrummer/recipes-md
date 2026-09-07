@@ -26,3 +26,9 @@ Die Sauce: Sojasauce, geriebenen Ingwer und Ahornsirup in einer kleinen Tasse ve
 Vereinen: Den Tofu zurück zum Gemüse in die Pfanne geben. Die Ingwer-Sojasauce darübergießen, alles eine Minute heiß durchschwenken, damit sich die Aromen verbinden, und in zwei Schalen mit den Frühlingszwiebeln anrichten.
 
 Ohne Sesamöl bleibt das Gericht leicht und magenfreundlich — und liegt unter 350 Kalorien pro Portion.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 330 kcal
+- Ballaststoffe: 4 g
+- Protein: 19 g

@@ -25,3 +25,9 @@ Gemüsebrühe aufkochen, Blumenkohl dazugeben, ca. 5 Minuten garen. Gemüse hera
 Inzwischen Brot ganz klein würfeln. Butter (1 EL) in einer Pfanne erhitzen, Brotwürfel darin knusprig braten.
 
 Risotto mit Zitronensaft abschmecken, Parmesan unterrühren, die knusprigen Brotwürfelchen darüber streuen. Risotto servieren.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 520 kcal
+- Ballaststoffe: 7 g
+- Protein: 20 g

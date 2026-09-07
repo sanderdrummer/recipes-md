@@ -18,3 +18,9 @@ Backofen auf 160 Grad vorheizen. Ein Backblech mit Backpapier auslegen und mit H
 Kokosmakronen gut abkühlen lassen, sonst fallen sie auseinander.
 
 Kuvertüre klein hacken, über dem Wasserbad schmelzen und die Kokosmakronen damit nach Belieben verzieren.
+
+## Nährwerte (pro Stück, 25 Stück)
+
+- Kalorien: 110 kcal
+- Ballaststoffe: 2 g
+- Protein: 1 g

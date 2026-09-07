@@ -26,3 +26,9 @@ Streusel:
 Das Fett im Topf schmelzen, vom Herd nehmen, die restlichen Zutaten vermischen und dazugeben. Diese Masse kurz abkühlen lassen und dann Streusel erzeugen, indem man Teig in die Hand nimmt und zwischen beiden Händen zerbröselt. Natürlich am besten über dem Kuchen auf dem Blech.
 
 Dann im vorgeheizten Backofen auf der mittleren Schiene bei ca. 175 Grad Heißluft ca. 45 Min. backen. Aber Vorsicht: Immer beobachten, da Streusel schnell verbrennen.
+
+## Nährwerte (pro Stück, 16 Stück)
+
+- Kalorien: 400 kcal
+- Ballaststoffe: 3 g
+- Protein: 4 g

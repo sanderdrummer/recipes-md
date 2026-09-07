@@ -27,3 +27,9 @@ Die Zucchinihälften mit Küchenpapier abtupfen und in den Ofen legen. Etwa 20 M
 Das Zucchini-Fruchtfleisch klein schneiden. Etwas Olivenöl in einer Pfanne erhitzen und das Fruchtfleisch darin anbraten, dann bei niedriger Hitze ein paar Minuten lang dünsten. Die Oliven entkernen und klein schneiden. Die Quinoa zum Zucchini-Fruchtfleisch fügen. Den Frischkäse dazugeben, schmelzen lassen und gut mit allem vermischen, die Oliven ebenfalls hinzufügen. Mit Petersilie, Salz und Pfeffer abschmecken.
 
 Wenn die Zucchinihälften fertig gebacken sind, mit der Quinoa-Mischung füllen. Darüber die Honig-Walnüsse streuen und oben drauf kommt der Ziegenkäse. Nun noch einmal für ein paar Minuten in den Ofen schieben, bis der Käse geschmolzen ist, und dann genießen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 330 kcal
+- Ballaststoffe: 5 g
+- Protein: 11 g

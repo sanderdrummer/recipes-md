@@ -20,3 +20,9 @@
 Zwiebel in Würfel geschnitten anbraten.
 Abgetropfte Linsen dazugeben
 und beides kurz anschwitzen. Gemüsebrühe angießen Hitec ca. 5 Minuten. Einmal kräftig aufkochen und mit ca.tel Speisestärke mit etwas Wasser auflösen binden,
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 240 kcal
+- Ballaststoffe: 5 g
+- Protein: 10 g

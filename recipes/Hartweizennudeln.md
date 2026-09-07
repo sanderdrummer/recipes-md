@@ -12,3 +12,9 @@
 
 In der Nudelnmaschine mischen.
 Ergibt 300g Nudeln
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 510 kcal
+- Ballaststoffe: 5 g
+- Protein: 17 g

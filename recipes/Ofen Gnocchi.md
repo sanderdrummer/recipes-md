@@ -17,3 +17,9 @@
 Backofen auf 200 Grad I(Umluft: 180 Grad) vorheizen. Zwiebel abziehen und in dünne Spalten schneiden. Pil ze putzen und je nach Größe halbieren oder vierteln. Zwei bel und Pilze mit Gnocchi, Speck oder Schinkenwürfeln mischen. Öl unterrühren. Al les auf einem mit Backpapier belegten Blech verteilen. Sah ne darüberträufeln. Alles mit Käse bestreuen und im Back ofen 30 Minuten garen, ab und zu wenden.
 
 Inzwischen Lauchzwiebeln waschen, putzen, in Ringe schneiden. SpeckGnocchi da mit bestreuen, servieren.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 910 kcal
+- Ballaststoffe: 7 g
+- Protein: 25 g

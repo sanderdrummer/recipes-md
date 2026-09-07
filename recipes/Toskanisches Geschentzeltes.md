@@ -34,3 +34,9 @@ schmecken. Inzwischen Gnocchi anbraten
 Fleisch zurück in die Pranne geben, untermischen und
 alles erwärmen. Rucola unterheben. Geschnetzeltes milt
 Gnocchi anrichten.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 440 kcal
+- Ballaststoffe: 12 g
+- Protein: 25 g

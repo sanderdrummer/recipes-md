@@ -47,3 +47,9 @@ Vereinen: Die Kokosmilch angießen und verrühren. Den knusprigen Tofu zurück i
 Abschmecken: Das Thai-Basilikum daraufgeben und nach Wunsch Sambal Oelek oder Sriracha einrühren. Mit Reis, Naan und einem Limettenschnitz servieren.
 
 Ohne Thai-Basilikum funktionieren auch etwas Minze oder Petersilie — oder einfach weglassen. Im Kühlschrank hält sich das Curry 3-4 Tage, eingefroren bis zu 3 Monate (vor dem Aufwärmen im Kühlschrank auftauen lassen). Ergibt 4 Portionen mit ca. 324 Kalorien pro Portion.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 325 kcal
+- Ballaststoffe: 8 g
+- Protein: 25 g

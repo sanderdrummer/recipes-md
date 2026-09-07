@@ -31,3 +31,9 @@ Wasabi und Mayonnaise verrühren. Tomaten waschen, in Scheiben schneiden.
 Pak Choi waschen, putzen, Blätter abtrennen.
 
 Brötchen evtl. aufbacken und aufschneiden. In einer (Grill-)Pfanne Öl erhitzen, Fri kadellen darin von jeder Seite 3-4 Minuten braten. Pak Choi, Tomaten im Bratfett schwen ken. Brötchen je mit Wasabi Dip, Tomaten, 1 Frikadelle, Pak Choi und etwas Dip belegen,
+
+## Nährwerte (pro Portion, 8 Burger)
+
+- Kalorien: 440 kcal
+- Ballaststoffe: 5 g
+- Protein: 12 g

@@ -16,3 +16,9 @@ Mehl, Milch, Zucker und Eier zu einem glatten Teig verrühren.
 Maragarine schmelzen und unterrühren.
 Teig eine halbe Stunde ruhen lassen.
 Wenn er zu dickflüssig ist noch etwas Milch dazu geben.
+
+## Nährwerte (pro Stück, 10 Crepes)
+
+- Kalorien: 180 kcal
+- Ballaststoffe: 1 g
+- Protein: 6 g

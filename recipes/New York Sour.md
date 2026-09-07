@@ -17,3 +17,9 @@ Wenn man den New York Sour mit Eiweiß mixt, musst man besonders gründlich und 
 
 Anschließend den Drink in ein mit Eis gefülltes Tumbler-Glas abseihen.
 Nun den Rotwein über den Rücken des Barlöffels vorsichtig auf den Drink floaten, so dass ein schöner Farbeffekt entsteht und Zitronenschale garniert servieren.
+
+## Nährwerte (pro Glas)
+
+- Kalorien: 225 kcal
+- Ballaststoffe: 0 g
+- Protein: 3 g

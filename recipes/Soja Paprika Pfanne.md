@@ -20,3 +20,9 @@ Zwiebel schneiden und mit den Schnetzeln knusprig braten. Dann mit Curry, Salz, 
 Jetzt Paprika und Pilze schneiden.
 Beides in die Pfanne geben und 5 Minuten braten lassen.
 Nach belieben mit frischen Kräutern abschmecken.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 630 kcal
+- Ballaststoffe: 13 g
+- Protein: 36 g

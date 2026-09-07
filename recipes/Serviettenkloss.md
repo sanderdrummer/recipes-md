@@ -16,3 +16,9 @@ Milch erwärmen und über die Brötchen geben.
 Etwas einweichen lassen. Eier und Gewürze dazu und alles gut kneten bis ein glatter Teig entsteht.
 Rand der Schüssel sauber wischen abdecken und mit einem Teller beschwehrt lose den Deckel auflegen.
 Bei 600 Watt ca. 40-50 Minuten garen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 375 kcal
+- Ballaststoffe: 3 g
+- Protein: 17 g

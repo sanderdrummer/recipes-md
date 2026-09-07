@@ -24,3 +24,9 @@ Mehl, saure Sahne, Eier, Vanille und Salz dazugeben und zu einer glatten Masse v
 Der Kuchen sollte außen dunkel karamellisiert und wie ein Soufflé aufgegangen sein, in der Mitte aber noch wackeln. Vollständig in der Form abkühlen lassen (er sinkt dabei zusammen) und vor dem Servieren mindestens 1 Std. (besser über Nacht) kühlen.
 
 Tipps: Alle Zutaten sollten Zimmertemperatur haben, damit die Masse klumpenfrei wird und der Kuchen nicht reißt. Nicht zu lange backen – die dunkle Kruste und ein gleichmäßiges Wackeln zeigen, dass er fertig ist. Hält sich im Kühlschrank ca. 2 Tage.
+
+## Nährwerte (pro Stück, 12 Stück)
+
+- Kalorien: 380 kcal
+- Ballaststoffe: 0 g
+- Protein: 7 g

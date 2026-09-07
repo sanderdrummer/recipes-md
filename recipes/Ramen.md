@@ -18,3 +18,9 @@
 Chili Ingwer und Lauchzwiebeln würfeln und anbraten.
 Mit Brühe ablöschen. Dann die Gewürze dazu kurz aufkochen.
 Nudeln hinzugeben und zum Schluss mit Topping servieren.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 495 kcal
+- Ballaststoffe: 5 g
+- Protein: 16 g

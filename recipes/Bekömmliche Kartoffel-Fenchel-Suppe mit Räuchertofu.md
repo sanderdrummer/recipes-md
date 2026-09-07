@@ -34,3 +34,9 @@ Etwa ein Drittel der Suppe mit dem Stabmixer fein pürieren und wieder unterrüh
 Den Räuchertofu unterheben und kurz erwärmen. Auf vier Portionen aufteilen und mit gehackter Petersilie sowie je einem Löffel Joghurt servieren.
 
 Meal Prep: Die Suppe hält luftdicht im Kühlschrank 3 Tage. Am zweiten Tag langsam bei mittlerer Hitze mit einem Schuss Wasser erwärmen. Joghurt und Petersilie erst frisch dazugeben. Den Tofu für extra Biss separat aufbewahren und frisch anbraten.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 320 kcal
+- Ballaststoffe: 9 g
+- Protein: 15 g

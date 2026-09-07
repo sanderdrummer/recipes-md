@@ -25,3 +25,9 @@ Bärlauch und die Hälfte des Käses zur Laugenmasse geben und mit den Händen m
 Eine große Pfanne bei mittlerer Hitze erwärmen und Baconwürfel und Porreeringe darin 6-7 Min. braten.
 Porree mit 200ml Sahne, 50 ml Wasser und etwas Brühe ablöschen.
 Soße 3-4 Min. köcheln lassen, bis sie leicht eingedickt ist und das Gemüse weich ist. Rahmporree mit Salz, Pfeffer und Muskat abschmecken.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 445 kcal
+- Ballaststoffe: 4 g
+- Protein: 19 g

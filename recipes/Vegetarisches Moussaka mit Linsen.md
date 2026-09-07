@@ -20,3 +20,9 @@ Für 30Minuten bei 200 Grad backen.
 Dann den Käse darüber geben und für weitere 10Minuten Gratinieren.
 
 Für den Salat Babyspinat und Kirschtomaten mit Honig, Senf und etwas Öl vermischen.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 530 kcal
+- Ballaststoffe: 16 g
+- Protein: 34 g

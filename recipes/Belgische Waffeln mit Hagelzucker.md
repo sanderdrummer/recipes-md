@@ -23,3 +23,9 @@ Die Eier, die Hefemilch, das Wasser und die Butter zum Mehl geben, alles vermisc
 Den Teig eine halbe Stunde zugedeckt an einem warmen Ort gehen lassen.
 
 Nach dem Ruhen, den Hagelzucker unter den Teig rühren und die Waffeln sofort im Waffeleisen (vorzugsweise für rechteckige Waffeln) ausbacken.
+
+## Nährwerte (pro Stück, 16 Waffeln)
+
+- Kalorien: 340 kcal
+- Ballaststoffe: 1 g
+- Protein: 5 g

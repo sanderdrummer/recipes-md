@@ -14,3 +14,9 @@
 ## Zubereitung
 
 Alles zam
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 620 kcal
+- Ballaststoffe: 6 g
+- Protein: 19 g

@@ -24,3 +24,9 @@ Den Feldsalat gründlich waschen und trocken schütteln um die Wraps frisch zu h
 Für das Dressing den Magerquark mit einem Spritzer Limettensaft sowie etwas Salz und Pfeffer glatt rühren bis die Masse cremig ist. 
 Die Vollkornwraps kurz erwärmen und großzügig mit der Quarkcreme bestreichen. 
 Zum Schluss den Salat sowie die Paprika und Gurke und den knusprigen Tofu auf den Wraps verteilen und diese fest aufrollen sowie direkt servieren.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 450 kcal
+- Ballaststoffe: 7 g
+- Protein: 30 g

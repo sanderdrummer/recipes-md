@@ -21,3 +21,9 @@ TK Gemüse einrühren und kurz mit braten.
 Dann mit dem Rotwein ablöschen und einkochen lassen.
 Hitze reduzieren und Tomaten, Worcester Sauce und Zitronensaft dazugeben.
 Mit Zitrone, Salz, Pfeffer und Zucker abschmecken.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 230 kcal
+- Ballaststoffe: 8 g
+- Protein: 19 g

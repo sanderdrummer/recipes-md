@@ -116,35 +116,61 @@ export default function Recipe() {
       )}
 
       <div className="mt-6 gap-8 lg:grid lg:grid-cols-[minmax(0,1fr)_22rem] lg:items-start">
-        {recipe.ingredients.length > 0 && (
-          <aside className="lg:sticky lg:top-6 lg:order-2">
-            <Heading level={2}>Zutaten</Heading>
-            <ScalePicker scale={scale} onChange={setScale} />
-            <div className="mt-3 rounded-lg border border-border bg-surface p-4">
-              <ul>
-                {recipe.ingredients.map((ing, index) => (
-                  // biome-ignore lint/suspicious/noArrayIndexKey: ingredient lines can repeat verbatim; order is static
-                  <li key={index}>
-                    <IngredientRow ingredient={scaleIngredient(ing, scale)} />
-                  </li>
+        <aside className="lg:sticky lg:top-6 lg:order-2">
+          {recipe.ingredients.length > 0 && (
+            <>
+              <Heading level={2}>Zutaten</Heading>
+              <ScalePicker scale={scale} onChange={setScale} />
+              <div className="mt-3 rounded-lg border border-border bg-surface p-4">
+                <ul>
+                  {recipe.ingredients.map((ing, index) => (
+                    // biome-ignore lint/suspicious/noArrayIndexKey: ingredient lines can repeat verbatim; order is static
+                    <li key={index}>
+                      <IngredientRow ingredient={scaleIngredient(ing, scale)} />
+                    </li>
+                  ))}
+                </ul>
+                <Button
+                  className="mt-4 w-full"
+                  onClick={() => {
+                    addMany(
+                      recipe.ingredients.map((ing) =>
+                        scaleIngredient(ing, scale),
+                      ),
+                    );
+                    navigate("/einkaufsliste");
+                  }}
+                >
+                  Zur Einkaufsliste hinzufügen
+                </Button>
+              </div>
+            </>
+          )}
+
+          {/* Per-portion values are scale-invariant — the ScalePicker above
+              deliberately does not change them. */}
+          {recipe.nutrition !== null && (
+            <div className="mt-6">
+              <Heading level={2}>Nährwerte</Heading>
+              {recipe.nutrition.basis !== null && (
+                <p className="mt-1.5 text-sm text-text-muted">
+                  {recipe.nutrition.basis}
+                </p>
+              )}
+              <dl className="mt-3 rounded-lg border border-border bg-surface p-4">
+                {recipe.nutrition.entries.map(({ label, value }) => (
+                  <div
+                    key={label}
+                    className="flex items-baseline justify-between gap-3 py-1"
+                  >
+                    <dt>{label}</dt>
+                    <dd className="font-data">{value}</dd>
+                  </div>
                 ))}
-              </ul>
-              <Button
-                className="mt-4 w-full"
-                onClick={() => {
-                  addMany(
-                    recipe.ingredients.map((ing) =>
-                      scaleIngredient(ing, scale),
-                    ),
-                  );
-                  navigate("/einkaufsliste");
-                }}
-              >
-                Zur Einkaufsliste hinzufügen
-              </Button>
+              </dl>
             </div>
-          </aside>
-        )}
+          )}
+        </aside>
 
         {recipe.steps.length > 0 && (
           <section className="mt-6 lg:order-1 lg:mt-0">

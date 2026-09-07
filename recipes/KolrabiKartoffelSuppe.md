@@ -32,3 +32,9 @@ Dann zwei drittel der Creme Fraice und den Senf in die Suppe geben.
 Final mit Salz und Pfeffer abschmecken
 
 Den Eintopf in einen tiefen Teller geben mit Käse der Creme Fraice und den Brezeln garnieren.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 340 kcal
+- Ballaststoffe: 8 g
+- Protein: 9 g

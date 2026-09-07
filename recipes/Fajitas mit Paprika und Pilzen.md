@@ -24,3 +24,9 @@ Sahne mit Limttenabrieb Chili, Salz und Pfeffer mischen.
 Tomatten mit etwas Limettensaft und Öl marinieren.
 
 Tortillas mit scharfer Soße bestreichen, Ofengemüse darüber und mit Käse und Tomatenwürfeln toppen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 425 kcal
+- Ballaststoffe: 6 g
+- Protein: 13 g

@@ -20,3 +20,9 @@ Den Spargel schälen. Die Spargelschalen mit 1 l (bei 2 Portionen) kaltem Wasser
 Spargel bis auf die Spitzen in Würfel schneiden. Schalotten und Knoblauch fein würfeln und in der Butter glasig anschwitzen. Die Spargelwürfel und den Reis dazugeben, anschwitzen und mit Weißwein ablöschen. Nach und nach mit heißem Spargelfond aufgießen und den Reis "al dente" kochen.
 
 In der Zwischenzeit die Spargelspitzen separat in einer Pfanne mit etwas Butter und Spargelfond garen.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 400 kcal
+- Ballaststoffe: 4 g
+- Protein: 9 g

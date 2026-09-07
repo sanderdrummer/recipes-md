@@ -16,3 +16,9 @@ Die Haferflocken in einer Pfanne trocken rösten, bis es gut zu duften beginnt. 
 
 Käse in den Haferteig geben und vermengen. Mit den Kräutern und Gewürzen abschmecken. Paniermehl zufügen falls es zu feucht ist.
 Dann Frikadellen formen, diese in Paniermehl wenden und dann in einer heißen Pfanne ausbacken.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 370 kcal
+- Ballaststoffe: 5 g
+- Protein: 21 g

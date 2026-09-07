@@ -1,9 +1,21 @@
+export interface NutritionEntry {
+  label: string;
+  value: string;
+}
+
+export interface Nutrition {
+  // The reference the values apply to, e.g. "pro Portion, 4 Portionen".
+  basis: string | null;
+  entries: NutritionEntry[];
+}
+
 export interface Recipe {
   slug: string;
   title: string;
   tags: string[];
   ingredients: string[];
   steps: string[];
+  nutrition: Nutrition | null;
 }
 
 // Load every recipe markdown file at build time as raw text.
@@ -84,6 +96,27 @@ function parseSteps(text: string): string[] {
     .filter(Boolean);
 }
 
+// `## Nährwerte (pro Portion, 4 Portionen)` followed by `- Kalorien: 520 kcal`
+// bullets. The parenthesised basis is optional.
+export function parseNutrition(text: string): Nutrition | null {
+  const heading = text.match(/^##\s+Nährwerte\s*(?:\(([^)]*)\))?/m);
+  if (!heading) return null;
+  const entries = sectionLines(text, "Nährwerte")
+    .map((l) => l.trim())
+    .filter((l) => /^[-*]/.test(l))
+    .map((l) => l.replace(/^[-*]\s*/, ""))
+    .map((l) => {
+      const split = l.indexOf(":");
+      if (split === -1) return null;
+      const label = l.slice(0, split).trim();
+      const value = l.slice(split + 1).trim();
+      return label && value ? { label, value } : null;
+    })
+    .filter((e): e is NutritionEntry => e !== null);
+  if (entries.length === 0) return null;
+  return { basis: heading[1]?.trim() || null, entries };
+}
+
 function parse(path: string, text: string): Recipe {
   const title = parseTitle(text) || baseName(path);
   return {
@@ -92,6 +125,7 @@ function parse(path: string, text: string): Recipe {
     tags: parseTags(text),
     ingredients: parseIngredients(text),
     steps: parseSteps(text),
+    nutrition: parseNutrition(text),
   };
 }
 

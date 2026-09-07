@@ -24,3 +24,9 @@ Einen Teil des Öls und Butter in der Pfanne erwärmen und Rinderfiletspitzen da
 Restliches Olivenöl in die Pfanne geben und Pfefferkörner, Schalotten und Champignons darin anbraten. Pfanne mit Rotwein ablöschen und ca. 1 Min. köcheln lassen. Rinderbrühe dazugeben und die Soße ca. 3 Min. reduzieren lassen.
 
 Hitze reduzieren und Sahne einrühren. Ca. 5 Min. einkochen lassen oder bis die Sauce sämig wird. Gekochte Tagliatelle und Rinderfiletspitzen dazugeben und schwenken. Mit Salz und Pfeffer abschmecken und mit Petersilie garnieren. Guten Appetit!
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 600 kcal
+- Ballaststoffe: 3 g
+- Protein: 32 g

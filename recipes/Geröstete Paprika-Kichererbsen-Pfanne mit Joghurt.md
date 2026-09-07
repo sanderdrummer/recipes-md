@@ -22,3 +22,9 @@
 ## Zubereitung
 
 Zuerst das Olivenöl in einer großen Pfanne erhitzen und die gut abgetropften Kichererbsen darin bei mittlerer Hitze für 5 bis 7 Minuten rösten bis sie leicht knusprig sind und mit Salz würzen. Danach die Zwiebelwürfel und Paprikastreifen zu den Kichererbsen in die Pfanne geben und alles für weitere 5 Minuten braten bis das Gemüse weich aber noch bissfest ist und schließlich den Knoblauch hinzufügen. Die Hitze leicht reduzieren und das edelsüße sowie das geräucherte Paprikapulver zusammen mit dem Kreuzkümmel über die Mischung streuen und alles für maximal 30 Sekunden gut vermengen damit das Paprikapulver nicht bitter wird. Parallel dazu den Joghurt mit etwas Zitronensaft sowie Salz und Pfeffer glatt rühren. Die Pfanne vom Herd nehmen mit frischer Petersilie oder Koriander bestreuen und das Gericht auf Tellern mit einem großzügigen Klecks des Zitronenjoghurts anrichten.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 545 kcal
+- Ballaststoffe: 18 g
+- Protein: 21 g

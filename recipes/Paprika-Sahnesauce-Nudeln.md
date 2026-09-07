@@ -26,3 +26,9 @@ Tomatenmark dazugeben, kurz mitdünsten.
 Mit der Gemüsebrühe ablöschen, kurz einköcheln lassen. Hitze reduzieren. Reibekäse dazugeben, 
 gut unterrühren. Sahne beigeben, nochmals einköcheln lassen. 
 Mit Gewürzen nach Geschmack abschmecken.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 690 kcal
+- Ballaststoffe: 5 g
+- Protein: 17 g

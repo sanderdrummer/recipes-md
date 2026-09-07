@@ -16,3 +16,9 @@
 Beim Spargel das untere Drittel schälen und holzige Enden abschneiden. Die Stangen in kurze Stücke schneiden und zusammen mit den Zwiebeln und Knoblauch in heißem Olivenöl andünsten. In eine Schüssel geben und mit den gewürfelten Tomaten mischen. Alles kräftig mit Salz, Pfeffer und einem Spritzer Zitronensaft würzen.
 
 Die Brotscheiben mit etwas Butter oder Olivenöl bestreichen und unter dem Backofengrill von beiden Seiten goldbraun rösten. Anschließen halbieren und mit der Spargel-Tomaten-Mischung großzügig belegen. Möglichst schnell servieren
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 270 kcal
+- Ballaststoffe: 5 g
+- Protein: 7 g

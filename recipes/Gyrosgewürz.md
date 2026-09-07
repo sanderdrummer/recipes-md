@@ -15,3 +15,9 @@
 ## Zubereitung
 
 Alles mischen
+
+## Nährwerte (pro TL)
+
+- Kalorien: 8 kcal
+- Ballaststoffe: 1 g
+- Protein: 0 g

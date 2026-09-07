@@ -25,3 +25,9 @@ Nun den Saucenansatz mehrmals mit insgesamt ca. 75 ml Rotwein ablöschen und imm
 Den Fond dazugeben und aufkochen lassen.
 Den Thymian und den restlichen Rotwein dazugeben und die Sauce bei geringer Hitze ca. 10 Minuten köcheln und reduzieren lassen.
 Die Sauce mit Salz und Pfeffer würzen, evtl. mit Mehlbutter binden. Anschließend durch ein Sieb passieren.
+
+## Nährwerte (pro Portion, ca. 100 ml)
+
+- Kalorien: 100 kcal
+- Ballaststoffe: 0 g
+- Protein: 1 g

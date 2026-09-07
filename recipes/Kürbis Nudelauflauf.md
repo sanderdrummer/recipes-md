@@ -28,3 +28,9 @@ nebeneinander verteilen. Gemüsewürfel darauf
 geben und Sauce darübergießen. Mit Alufolie zudecken und
 auf der mittleren Schiene ca. 40 Minuten garen. Nach etwa
 30 Minuten Garzeit die Alufolie entfernen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 370 kcal
+- Ballaststoffe: 4 g
+- Protein: 15 g

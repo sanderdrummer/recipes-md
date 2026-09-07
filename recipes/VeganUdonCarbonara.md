@@ -25,3 +25,9 @@ Zutaten:
 2. Zwiebel und Knoblauch anbraten dann die Sahne, Hefeflocken, Senf und Salz und Pfeffer dazugeben.
 3. kurz aufkochen, bis die Sauce andickt (nach Belieben noch n Schuss Wasser dazu, wenn's zu dick ist) dann die Udon dazu und gar kochen.
 4. zum Schluss den Räuchertofu, Zitronensaft, Petersilie oder Schnittlauch und wer mag Chili Öl unterheben.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 665 kcal
+- Ballaststoffe: 5 g
+- Protein: 26 g

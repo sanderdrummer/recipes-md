@@ -20,3 +20,9 @@ für 1 Person
 4. Karotten und Brokkoli hinzufügen. Mit ca. 2 EL Wasser ablöschen, den Deckel schließen und das Gemüse ca. 5 Minuten bei mittlerer Hitze dünsten.
 5. Die Erbsen und den gegarten Reis unter das Gemüse mischen.
 6. Die Sojasauce und den Limettensaft darübergeben, alles gut vermengen und noch 1–2 Minuten bei Resthitze ziehen lassen.
+
+## Nährwerte (pro Portion, 1 Portion)
+
+- Kalorien: 395 kcal
+- Ballaststoffe: 14 g
+- Protein: 15 g

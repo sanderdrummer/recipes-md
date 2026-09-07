@@ -26,3 +26,9 @@
 6. Sofort genießen oder nach Belieben in einer Pfanne 1-2 Minuten pro Seite anbraten, bis sie goldbraun sind.
 7. Im Kühlschrank in einem luftdichten Behälter bis zu 4 Tage lagern. eignet sich hervorragend zum Meal Prep und kann warm oder kalt gegessen werden.
 
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 330 kcal
+- Ballaststoffe: 4 g
+- Protein: 19 g

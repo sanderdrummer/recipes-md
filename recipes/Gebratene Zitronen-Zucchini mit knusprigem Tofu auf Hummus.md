@@ -28,3 +28,9 @@ Zucchini anbraten: Die Zucchinischeiben in dieselbe Pfanne geben (eventuell eine
 Hummus-Creme anrühren: Den Hummus in einer kleinen Schüssel mit dem Zitronensaft, dem Zitronenabrieb und dem Agavendicksaft verrühren (der Agavendicksaft ist optional, es schmeckt auch pur mit Zitrone super).
 
 Vereinen & Anrichten: Den knusprigen Tofu am Ende kurz zu den Zucchini in die Pfanne geben, damit alles wieder heiß wird. Den Zitronen-Hummus auf zwei Teller streichen, die Zucchini-Tofu-Mischung daraufsetzen und mit dem Paprikapulver sowie den optionalen Basilikumblättern garnieren.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 370 kcal
+- Ballaststoffe: 6 g
+- Protein: 22 g

@@ -18,3 +18,9 @@
 Eigelb und Eier in eine Schüssel geben. Den Zucker zufügen und mit einem Mixer verrühren. Das Mehl unterrühren. Die flüssige Schokolade zum Teig geben und langsam weiter rühren, bis alles gut vermischt ist.
 
 Muffinförmchen einfetten und den Teig einfüllen. Jeweils ein Stückchen Schokolade in die Mitte drücken. Im auf 180° vorgeheizten Ofen ca. 10 Minuten backen.
+
+## Nährwerte (pro Stück, 12 Muffins)
+
+- Kalorien: 315 kcal
+- Ballaststoffe: 2 g
+- Protein: 4 g

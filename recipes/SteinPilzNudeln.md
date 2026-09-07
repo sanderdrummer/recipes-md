@@ -24,3 +24,9 @@ Olivenöl in einer Pfanne erhitzen und die Zwiebeln und Knoblauchzehen darin üb
 Tomatenmark und Senf dazugeben und weitere ca. 3 Minuten anbraten. Danach mit Rotwein ablöschen und ihn ca. 5 Minuten auf mittlerer Hitze einköcheln lassen. Jetzt den Pilzsud der getrockneten Pilze dazugeben und kräftig mit Salz und Pfeffer würzen. Alles gemeinsam solang köcheln, bis die Nudeln fertig sind und kurz vor Schluss nochmal abschmecken.
 
 In der Zwischenzeit die Pappardelle in gesalzenem, kochenden Wasser al dente kochen. Sobald sie fertig sind, abgießen, aber einen Teil des Kochwassers auffangen. Die Nudeln direkt zur Soße geben und gut durchschwenken. Dabei so viel Kochwasser der Nudeln dazugeben, bis eine sämige Pilzsoße entsteht und die Nudeln ummantelt. Vor dem Servieren mit Kresse bestreuen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 425 kcal
+- Ballaststoffe: 5 g
+- Protein: 16 g

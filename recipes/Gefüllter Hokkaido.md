@@ -24,3 +24,9 @@ Inzwischen den Lauch putzen und schneiden. Die Tomate waschen und würfeln und d
 Hackfleisch und das fein ausgeschabte Kürbisfleisch gut in Butter anbraten. Gemüse und Tomatenmark dazugeben und 5 Minuten unter Rühren weiterbraten. Cayennepfeffer, Knoblauch, gehackte Petersilie, Salz und Crème fraîche einrühren.
 
 Den Kürbis aus dem Ofen nehmen. Die Hackfleischmasse einfüllen, dabei den gewürfelten Käse einstreuen. Den Deckel auf den Kürbis setzen und alles weitere ca. 20 Minuten bei 180 °C im Ofen backen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 430 kcal
+- Ballaststoffe: 8 g
+- Protein: 16 g

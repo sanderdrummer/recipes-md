@@ -29,3 +29,9 @@ In einem zweiten Topf die Butter zerlassen. Mit Mehl bestäuben und kurz anschwi
 Eine große, flache Auflaufform mit Olivenöl fetten. Die Hälfte der Kartoffeln und Auberginen einfüllen. Mit Salz, Pfeffer und Muskatnuss würzen und mit etwas Käse bestreuen. Anschließend die Hackfleischmasse gleichmäßig darauf verteilen. Die restlichen Kartoffeln und Auberginen darauf geben und mit der Sauce begießen. Mit Käse bestreuen.
 
 Die Moussaka bei 180 °C Umluft im vorgeheizten Backofen 30 - 40 Minuten backen.
+
+## Nährwerte (pro Portion, 6 Portionen)
+
+- Kalorien: 475 kcal
+- Ballaststoffe: 11 g
+- Protein: 33 g

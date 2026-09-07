@@ -27,3 +27,9 @@ Etwas Butter in der Pfanne schmelzen lassen und die Brust mit der Hautseite nach
 Im Pfannenfett die Steinpilze in Scheiben wenige Sekunden von beiden Seiten rösten.
 
 Die frischen Steinpilze auf den Rahmkartoffeln anrichten und mit Petersilie bestreuen, die Entenbrust in Scheiben schneiden und dazu servieren.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 840 kcal
+- Ballaststoffe: 6 g
+- Protein: 26 g

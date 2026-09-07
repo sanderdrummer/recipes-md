@@ -15,3 +15,9 @@
 ## Zubereitung
 
 Mischen dann in den Tiki Becher
+
+## Nährwerte (pro Glas)
+
+- Kalorien: 250 kcal
+- Ballaststoffe: 0 g
+- Protein: 0 g

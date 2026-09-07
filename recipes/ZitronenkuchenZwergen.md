@@ -18,3 +18,9 @@
 
 Zutaten zu einem Rührteig verarbeiten auf ein Backblech und bei 175Grad für 20 Minuten backen
 200g Puderzucker mit Zitronensaft zu einem Guss mischen und auf den Kuchen streichen.
+
+## Nährwerte (pro Stück, 20 Stück)
+
+- Kalorien: 320 kcal
+- Ballaststoffe: 1 g
+- Protein: 4 g

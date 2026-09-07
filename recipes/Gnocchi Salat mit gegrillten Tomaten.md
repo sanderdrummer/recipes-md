@@ -28,3 +28,9 @@ Dann mit Salz und Pfeffer abschmecken.
 
 Den Salat klein Schneiden in eine Schüssel geben und zusammen mit Gnocchi und Dressing mischen.
 Zum schluss die Tomaten als Topping darauf geben.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 525 kcal
+- Ballaststoffe: 7 g
+- Protein: 13 g

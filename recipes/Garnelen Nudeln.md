@@ -23,3 +23,9 @@ In der Zwischenzeit Knoblauch schälen und hacken. Chili und Frühlingszwiebeln 
 Olivenöl in einer Pfanne erhitzen und Scampi eine Minute anbraten. 
 Wenden und Knoblauch, Chili, Essig, Sahne, Tomatenmark, Brühe und Frühlingszwiebeln hinzufügen. Zwei Minuten einkochen lassen. Gut mit Salz und Pfeffer abschmecken.
 Nudeln hinzufügen und alles vermischen. Noch einmal mit Salz und Pfeffer abschmecken. Servieren.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 480 kcal
+- Ballaststoffe: 3 g
+- Protein: 22 g

@@ -14,3 +14,9 @@
 ## Zubereitung
 
 Zwiebel anbraten. Grünkohl dayugeben und anschwitzen. Immer rühren bis der Kohl zusammenfällt. Brühe angiesen. 1Tl Senf und eine Prise Zucker dazugeben. Die Würste dazugeben und 20 bis 30 min kochen. Mit Salz Pfeffer und Muskat würzen. und mit Haferflocken abbinden.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 410 kcal
+- Ballaststoffe: 7 g
+- Protein: 22 g

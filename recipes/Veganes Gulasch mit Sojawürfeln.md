@@ -62,3 +62,9 @@ Saucenpulver bzw. Mehl für veganes Gulasch mitbraten
 ▢
 Das Gulasch nun etwa 30 Minuten zugedeckt bei kleiner Stufe köcheln lassen und das Wasser dabei portionsweise unterrühren, bis die gewünschte Konsistenz erreicht ist. Dabei immer mal wieder kräftig durchrühren. Mit Zucker, Salz und Pfeffer und nach Belieben mit den anderen Gewürzen abschmecken und mit Nudeln oder Kartoffeln, aber auch zu Kartoffelknödeln, Pommes frites oder schlicht zu frischem Ciabatta servieren. Das Gulasch dickt übrigens noch nach, besonders am nächsten Tag; dann einfach etwas Rotwein, Wasser, Kirschsaft oder Gemüsebrühe bis zur gewünschten Konsistenz nachgießen.
 Veganes ungarisches Gulasch
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 570 kcal
+- Ballaststoffe: 10 g
+- Protein: 34 g

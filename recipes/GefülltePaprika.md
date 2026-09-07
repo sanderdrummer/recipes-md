@@ -17,3 +17,9 @@
 
 Paprika aushöhlen. Hack mit der Zwiebel und allen anderen Zutaten verkneten. Masse in die Paprika füllen. Im Schnellkochtopf anbraten. Mit 1l Wasser ablöschen
 20 min kochen. Paprika herausnehmen Tomatenmark einrühren und mit Zitrone, Salz, Pfeffer und Paprika würzen. Mit Stärke abbinden.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 430 kcal
+- Ballaststoffe: 4 g
+- Protein: 26 g

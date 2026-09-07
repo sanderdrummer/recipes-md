@@ -17,3 +17,9 @@ Zwiebel würfeln.
 Chili hinzugeben und gut vermengen.
 Dann die Reissahne und nach belieben Salz Pfeffer und Kräuter dazu geben.
 Nochmal 5 Minuten kochen lassen und dann die Nudeln dazu geben.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 900 kcal
+- Ballaststoffe: 6 g
+- Protein: 16 g

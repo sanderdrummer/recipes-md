@@ -18,3 +18,9 @@ Kartoffelpuffer kennen die meisten von uns schon aus unseren Kindheitstagen. Zue
 Das Ganze kommt danach in eine große Schüssel, Schmelzflocken, das Mehl, das Salz und der Pfeffer hinzu kommen. Alles wird mit den Händen gut durchgeknetet.
 Wenn die Kartoffeln nicht sofort verarbeitet werden, empfiehlt es sich, sie vorher auszudrücken, da sie sehr viel Wasser verlieren allzu lange sollten sie dennoch trotzdem nicht stehen.
 Nun wird in einer Pfanne Öl erhitzt. Mit einem Schöpfer gibt man immer zirka eineinhalb Schöpfer Klecks in die Pfanne und brät ihn von beiden Seiten goldbraun an.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 560 kcal
+- Ballaststoffe: 6 g
+- Protein: 6 g

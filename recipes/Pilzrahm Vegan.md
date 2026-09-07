@@ -23,3 +23,9 @@ Den Thymian hacken, in die Sauce geben und 5 Min. köcheln lassen.
 
 Danach Sahne, Edelhefeflocken und Apfelessig einrühren Kartoffelstärke mit 2 EL Wasser verrühren und damit abbinden. 
 Mit Salz und Pfeffer abschmecken und ggf. auf niedriger Stufe warmhalten.
+
+## Nährwerte (pro Portion, ca. 100 ml)
+
+- Kalorien: 55 kcal
+- Ballaststoffe: 1 g
+- Protein: 2 g

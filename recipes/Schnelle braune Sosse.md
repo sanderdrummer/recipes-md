@@ -17,3 +17,9 @@
 ## Zubereitung
 
 Vegane Butter in einem kleinen Topf schmelzen und zuerst die Zwiebelwürfel zusammen mit getrocknetem Thymian anschwitzen, bis die Zwiebel glasig ist. Tomatenmark dazugeben und ca. 3 Minuten bei mittlerer Hitze anrösten, bis das Mark etwas dunkler wird. Mit Mehl bestäuben und direkt danach mit Gemüsebrühe und Wasser aufgießen. Sojasauce und Senf dazugeben und verrühren. Wer mag, kann an dieser Stelle auch einen guten Schuss veganen Rotwein dazugeben. Die Soße mit Salz und Pfeffer würzen 
+
+## Nährwerte (pro Portion, ca. 100 ml)
+
+- Kalorien: 85 kcal
+- Ballaststoffe: 1 g
+- Protein: 1 g

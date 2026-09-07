@@ -24,3 +24,9 @@ Mit Salz, Pfeffer und Zucker würzen.
 Tomaten und rest der Gurke schneiden und zusammen mit den Oliven und dem Rucola als Salat anrichten.
 
 Inzwischen das marinierte Gyros schraf anbraten.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 645 kcal
+- Ballaststoffe: 13 g
+- Protein: 50 g

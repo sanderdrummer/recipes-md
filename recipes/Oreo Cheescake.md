@@ -31,3 +31,9 @@ Magerquark, Doppelrahmfrischkäse, Vanillezucker, Orangenschale, Zucker und Mehl
 Eier nacheinander gut unterrühren. Die Masse in die mit Oreos ausgelegte Springform füllen und die Blaubeeren oben drauf verteilen und leicht eindrücken.
 
 Im vorgeheizten Ofen bei 160 Grad (Umluft 150 Grad) auf der 2. Schiene von unten 50 Min. backen. 1 Std. bei Zimmertemperatur abkühlen lassen, dann mindestens 5 Std., am besten über Nacht, im Kühlschrank durchkühlen lassen.
+
+## Nährwerte (pro Stück, 12 Stück)
+
+- Kalorien: 440 kcal
+- Ballaststoffe: 2 g
+- Protein: 11 g

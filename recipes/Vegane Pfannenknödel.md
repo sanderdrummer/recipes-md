@@ -24,3 +24,9 @@ Die pflanzliche Milch nach und nach hinzugeben und alles gut mit den Händen kne
 Kleine flache Knödel daraus formen. Ungefähr so groß, wie die Handfläche. Wenn es zu sehr klebt, die Hände gut mit Wasser befeuchten.
 
 Eine Pfanne mit Öl erhitzen und die flachen Knödel für 5 Minuten von beiden Seiten gut braten.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 340 kcal
+- Ballaststoffe: 3 g
+- Protein: 7 g

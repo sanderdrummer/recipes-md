@@ -17,3 +17,9 @@
 ## Zubereitung
 
 Zuerst die Zwiebel und den Knoblauch in einem Teelöffel Öl anbraten. Danach die Linsen, die Kokosmilch, 200 ml Wasser und die Gewürze dazugeben. Die Mischung für 15 bis 20 Minuten köcheln lassen, bis sie cremig ist. Zum Schluss den Spinat kurz unterheben und alles mit dem Limettensaft abschmecken.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 590 kcal
+- Ballaststoffe: 7 g
+- Protein: 20 g

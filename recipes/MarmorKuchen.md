@@ -27,3 +27,9 @@ Mehl und Backpulver vermischen und abwechseln esslöffelweise mit der Milch einr
 Den dunklen Teig auf dem hellen verteilen und mit einer Gabel spiralförmig durch die Teigschichten ziehen. 
 Den Kuchen backen bei 190°C, ca. 60 Min. (wenn er oben zu dunkel wird, nach der Hälfte der Backzeit mit einem Stück Alufolie abdecken). 
 Den erkalteten Kuchen mit Puderzucker bestäuben.
+
+## Nährwerte (pro Stück, 16 Stück)
+
+- Kalorien: 330 kcal
+- Ballaststoffe: 1 g
+- Protein: 4 g

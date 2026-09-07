@@ -21,3 +21,9 @@ Die verquirlten Eier mit dem Zucker und der Margarine glatt verrühren, bis ein 
 Vanillezucker und einen guten Schuss echten Rum hinzufügen.
 1000 g Mehl und das Backpulver dazugeben und verrühren, dadurch wird der Teig etwas klebrig.
 Zuletzt nach und nach die Milch unterrühren und so lange rühren, bis der Teig eine glatte und weiche Konsistenz hat.
+
+## Nährwerte (pro Stück, 30 Waffeln)
+
+- Kalorien: 350 kcal
+- Ballaststoffe: 1 g
+- Protein: 7 g

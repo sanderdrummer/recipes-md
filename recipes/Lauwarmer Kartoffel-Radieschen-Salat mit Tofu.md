@@ -28,3 +28,9 @@ Alles mischen: Die warmen Kartoffelscheiben direkt in das Dressing geben, so neh
 Aufteilen: Den Salat auf zwei Meal-Prep-Dosen verteilen (eine für heute, eine für morgen).
 
 Kühlen die Kartoffeln ab und werden am nächsten Tag kalt oder leicht temperiert gegessen, bildet sich resistente Stärke: weniger verwertbare Kalorien, besserer Blutzucker und gut für die Darmflora. Gurken und Radieschen bleiben knackig, der Salat hält sich in der Dose 2 Tage frisch — unter 350 Kalorien pro Portion.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 340 kcal
+- Ballaststoffe: 7 g
+- Protein: 20 g

@@ -24,3 +24,9 @@ Pistazienmus in eine große Schüssel geben. Mit Zitronensaft, Zitronenabrieb un
 Abgegossene, noch heiße Pasta sowie die gedünsteten Schalotten (und optional den Babyspinat) zur Pistazien-Creme geben.
 
 Alles gut durchmischen und nach und nach noch etwas Nudelwasser hinzugeben, bis sich die Sauce perfekt um die Nudeln legt. Mit Salz und reichlich schwarzem Pfeffer abschmecken.
+
+## Nährwerte (pro Portion, 1 Portion)
+
+- Kalorien: 810 kcal
+- Ballaststoffe: 9 g
+- Protein: 27 g

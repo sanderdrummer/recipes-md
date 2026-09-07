@@ -32,3 +32,9 @@ Den Wrap nach Belieben belegen
 
 Für das Dressing:
 1. Jogurt Ketchup und Gewürze mischen und Kalt stellen
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 910 kcal
+- Ballaststoffe: 11 g
+- Protein: 41 g

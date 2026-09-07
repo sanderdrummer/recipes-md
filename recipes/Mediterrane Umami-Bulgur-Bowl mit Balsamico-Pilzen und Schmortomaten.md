@@ -28,3 +28,9 @@
 **Für den zweiten Tag (Erfrischender Sommer-Bulgursalat):**
 - Den restlichen Bulgur und das restliche Gemüse einfach in einer Tupperdose im Kühlschrank aufbewahren. 
 - Am nächsten Abend müsst ihr nichts mehr aufwärmen! Schneidet einfach eine halbe Salatgurke in kleine Würfel und mischt sie unter den kalten Bulgur und das Gemüse. Gebt noch einen Spritzer frischen Zitronensaft darüber. So wird aus dem wärmenden Soulfood vom Vortag ein herrlich leichter, erfrischender "Tabouleh-Style" Sommersalat, der den Magen an warmen Abenden nicht belastet.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 525 kcal
+- Ballaststoffe: 17 g
+- Protein: 21 g

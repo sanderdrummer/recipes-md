@@ -23,3 +23,9 @@ Kurz mitkochen.
 
 Dann die Nudeln mit in den Topf und nach belieben mit
 Salz Pfeffer und Muskatnus würzen.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 790 kcal
+- Ballaststoffe: 5 g
+- Protein: 17 g

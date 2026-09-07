@@ -17,3 +17,9 @@ Die gewürfelte Zwiebel in etwas Butter glasig anbraten. Mit der Sahne ablösche
 Die Mischung in eine gefettete Auflaufform geben und mit dem restlichen Käse bestreuen.
 
 Im heißen Backofen bei 200 °C Ober-/Unterhitze ca. 20 Minuten überbacken, bis die gewünschte Bräune erreicht ist.
+
+## Nährwerte (pro Portion, 3 Portionen)
+
+- Kalorien: 700 kcal
+- Ballaststoffe: 3 g
+- Protein: 19 g

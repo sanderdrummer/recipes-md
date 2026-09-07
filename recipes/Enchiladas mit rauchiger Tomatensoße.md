@@ -33,3 +33,9 @@ Rauchsoße über die Enchiladas geben und mit Streukäse toppen.
 
 Für 10 bis 15 Minuten bei 180 Grad in den Backofen geben.
 Den Rest des Schmand mit Limette und Salz und Pfeffer mischen.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 800 kcal
+- Ballaststoffe: 15 g
+- Protein: 27 g

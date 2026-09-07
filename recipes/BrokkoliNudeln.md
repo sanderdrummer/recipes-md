@@ -15,3 +15,9 @@ Den Brokkoli klein schneiden.
 Mit der Brühe und der Milch kochen bis er weich und die Soße sämig ist.
 Zum Schluss mit Salz Pfeffer abschmecken.
 Nudeln entweder separat oder als OnePot mit kochen.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 720 kcal
+- Ballaststoffe: 12 g
+- Protein: 28 g

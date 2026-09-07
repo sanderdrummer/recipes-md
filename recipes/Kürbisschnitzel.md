@@ -57,3 +57,9 @@ Rest Butter (1 EL) einrühren,
 würzen. Püree mit Schnitzeln
 und Sauce servieren, evtl. mit
 frischem Majoran garnieren.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 800 kcal
+- Ballaststoffe: 10 g
+- Protein: 22 g

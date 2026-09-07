@@ -23,3 +23,9 @@ Teig über Nacht kühl stellen.
 
 Danach große Lebkuchen, Herzen oder Sterne ausstechen.
 Mit etwas Hafermilch bepinseln und im vorgeheizten Backofen bei 180 Grad ca. 15 Minuten backen.
+
+## Nährwerte (pro Stück, 30 Stück)
+
+- Kalorien: 135 kcal
+- Ballaststoffe: 1 g
+- Protein: 2 g

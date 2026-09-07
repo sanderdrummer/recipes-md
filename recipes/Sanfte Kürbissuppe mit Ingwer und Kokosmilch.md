@@ -17,3 +17,9 @@
 ## Zubereitung
 
 Zuerst den Kürbis waschen entkernen und in kleine Stücke schneiden wobei die Schale beim Hokkaido dranbleiben kann. Die Zwiebel hacken und den Ingwer fein reiben. Danach das Öl in einem Topf erhitzen und die Zwiebel zusammen mit dem Ingwer glasig anbraten ohne dass sie zu stark bräunen. Die Kürbiswürfel dazugeben und für zwei bis drei Minuten mitdünsten. Das Ganze mit der Gemüsebrühe ablöschen und auf mittlerer Hitze etwa 15 bis 20 Minuten köcheln lassen bis der Kürbis weich ist. Die Suppe mit einem Pürierstab oder im Mixer fein pürieren. Die Kokosmilch einrühren und kurz aufkochen lassen. Zum Schluss mit Salz und Zitronensaft abschmecken und nach Belieben mit Kürbiskernen oder Kräutern garnieren.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 380 kcal
+- Ballaststoffe: 7 g
+- Protein: 7 g

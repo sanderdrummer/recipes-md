@@ -38,3 +38,9 @@ Nach 15 Minuten mit der Schnittfläche
 nach oben in die Reismischung setzen. Mit
 übrigem Öl beträufeln und mit
 Salz, Pfeffer würzen, fertig garen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 525 kcal
+- Ballaststoffe: 6 g
+- Protein: 7 g

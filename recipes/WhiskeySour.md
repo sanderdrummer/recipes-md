@@ -20,3 +20,9 @@ Vor dem Hinzufügen von Eis wird trocken geschüttelt, um einen schönen Schaum 
 Sobald ein schöner Schaum entstanden ist, wird der kleinere Shaker mit Eis gefüllt und erneut kräftig geschüttelt, bis es kalt ist.
 
 Um den Schaum zu erhalten, ist ein doppeltes Sieben wichtig.
+
+## Nährwerte (pro Glas)
+
+- Kalorien: 200 kcal
+- Ballaststoffe: 0 g
+- Protein: 2 g

@@ -24,3 +24,9 @@ Anschließend die Barilla Bavette in der Pfanne mit der Zucchini vermengen.
 Pfanne von der Herdplatte nehmen und die verquirlten Eigelbe mit einem Esslöffel Kochwasser dazugeben. Etwa 30 Sekunden lang umrühren.
 
 Geriebenen Pecorino und frische Minzblätter zugeben, vermengen und mit Pfeffer garniert servieren.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 590 kcal
+- Ballaststoffe: 3 g
+- Protein: 22 g

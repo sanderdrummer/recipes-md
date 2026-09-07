@@ -51,3 +51,9 @@ und alles
 gut vermengen und bei hoher
 Temperatur 2 weitere Minuten
 braten.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 380 kcal
+- Ballaststoffe: 6 g
+- Protein: 10 g

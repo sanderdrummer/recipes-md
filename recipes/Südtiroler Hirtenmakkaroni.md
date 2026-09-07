@@ -30,3 +30,9 @@ Nun mit Brühepulver (oder nach Belieben auch einfach Salz und Pfeffer) und Oreg
 Währenddessen die Nudeln kochen.
 
 Erbsen, Sahne und 2 EL Parmesan zur Hackfleischmasse geben, alles gut mischen und nochmals 15 Minuten köcheln lassen. Zum Schluss die Makkaroni zur Hackfleischmasse in die Pfanne geben und sofort heiß servieren.
+
+## Nährwerte (pro Portion, 6 Portionen)
+
+- Kalorien: 720 kcal
+- Ballaststoffe: 4 g
+- Protein: 29 g

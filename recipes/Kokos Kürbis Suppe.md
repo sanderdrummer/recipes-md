@@ -26,3 +26,9 @@ und mit Salz und Pfeffer abschmecken. Heiße Sup
 pe in tiefe Teller oder Suppentassen verteilen, mit
 Kürbiskernöl beträufeln und mit gerösteten Kürbis
 kernen bestreut servieren.
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 570 kcal
+- Ballaststoffe: 6 g
+- Protein: 10 g

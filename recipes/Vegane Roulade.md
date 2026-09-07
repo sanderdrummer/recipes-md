@@ -24,3 +24,9 @@ Würfelt eine Zwiebel, und schneidet Gewürzgurken in kleine Stücken. Gebt dies
 Nun sorgen wir dafür, dass euer Gulasch am Ende schön sämig ist. Dafür gebt ihr 3 EL Mehl und 3 EL Tomatenmark in die Pfanne und verrührt es gut, damit alles damit bedeckt ist. Lasst es für 3 Minuten so braten, bis das Tomatenmark schon leicht bräunlich wird.
 Jetzt gießt ihr das ganze langsam mit 400 ml Gemüsebrühe auf (wird die Suppe euch zu dick, könnt ihr gern mehr nach geben). Rührt dabei unbedingt sorgfältig, damit die Sauce nicht klumpig wird. Wenn die Gemüsebrühe vollständig drin ist, gebt ihr 200 ml Rotwein und 50 ml vom Gewürzgurken Wasser dazu, sowie Nelken, Lorbeerblätter, Salz und Pfeffer. Lasst das ganze kurz aufkochen und dreht es danach auf kleine Flamme zum Weiterköcheln für mindestens 15 Minuten.
 Schmeckt zum Schluss nochmal mit Salz und Pfeffer ab und fischt Lorbeerblätter und Nelken aus eurem Gulasch, bevor ihr ihn serviert.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 260 kcal
+- Ballaststoffe: 6 g
+- Protein: 20 g

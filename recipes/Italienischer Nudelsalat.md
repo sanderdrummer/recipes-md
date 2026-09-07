@@ -24,3 +24,9 @@
 Die Nudeln kochen und mit kaltem Wasser abschrecken. Die Pinienkerne in der Pfanne bei mittlerer Hitze ohne Fett leicht anbräunen. Rucola gut waschen, trocken schleudern und etwas kleiner schneiden. Die getrockneten Tomaten gut abtropfen lassen und wie den Mozzarella und den Parmaschinken klein schneiden. Alles in eine große Schüssel geben, salzen und pfeffern.
 
 Öl, Essig, klein gehackte oder gepresste Knoblauchzehe, Pesto, Senf und Honig miteinander vermischen und kurz vor dem Essen über den Salat geben. Alles noch einmal gut durchmischen und mit dem Parmesan garnieren
+
+## Nährwerte (pro Portion, 6 Portionen)
+
+- Kalorien: 640 kcal
+- Ballaststoffe: 4 g
+- Protein: 24 g

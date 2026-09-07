@@ -16,3 +16,9 @@
 Gemüse würfeln. Zwiebel und Paprika anbraten. Dann Tomaten dazu. Alles kräftig würzen. 10 Minuten schmoren lassen.
 Dann Reis ungekocht dazu und evtl. Gemüsebrühe dazugeben. Schomren lassen bis der Reis gar ist.
 Dazu passt Baguette.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 450 kcal
+- Ballaststoffe: 8 g
+- Protein: 12 g

@@ -18,3 +18,9 @@
 - etwas Petersilie
 
 ## Zubereitung
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 265 kcal
+- Ballaststoffe: 10 g
+- Protein: 27 g

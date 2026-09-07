@@ -31,3 +31,9 @@
 **Für den zweiten Tag (Variationen):**
 - **Variante 1 (Kalt als Antipasti-Salat):** Lasst den Rest einfach im Kühlschrank abkühlen. Am nächsten Tag könnt ihr das Gemüse kalt als sommerlichen Antipasti-Salat genießen. Mischt einfach noch 1-2 Handvoll frischen Rucola oder milden Feldsalat darunter.
 - **Variante 2 (Warm als schnelles Pfannengericht):** Das Gemüse in einer Pfanne mit einem kleinen Schuss Wasser oder Gemüsebrühe sanft aufwärmen. Wer mag, hebt zum Schluss noch etwas frischen Babyspinat unter, bis dieser zusammenfällt.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 380 kcal
+- Ballaststoffe: 8 g
+- Protein: 19 g

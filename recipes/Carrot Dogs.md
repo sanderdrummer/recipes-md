@@ -36,3 +36,9 @@ Die gekochten Möhren in eine Vorratsdose legen und mit Marinade übergießen. D
 Nun könnt ihr eure „Würstchen“ entweder auf den Grill werfen oder in einer Pfanne mit etwas Öl anbraten. Anschließend müssen sie nur noch ins Hot-Dog-Brötchen und nach Wunsch belegt werden.
 
 Tomaten (ohne den flüssigen Teil) und rote Paprika fein würfeln. Gewürzgurken in dünne Scheiben schneiden. Laugenstangen aufschneiden und mit Senf und Ketchup beschmieren. Carrot-Würstchen hineinlegen und Tomaten-Paprika-Würfeln, Gewürzgurken und Radieschen belegen. Zum Schluss noch etwas süßen Senf und Röstzwiebeln darauf verteilen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 470 kcal
+- Ballaststoffe: 7 g
+- Protein: 10 g

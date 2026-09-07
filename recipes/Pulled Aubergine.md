@@ -31,3 +31,9 @@ Dann die Streifen nochmal 40 Minuten in den Ofen.
 Anschließend die Temperatur auf 120 Grad erhöhen und die Streifen mit BBQ Sauce einstreichen.
 
 Noch 15 Minuten im Ofen braten lassen damit sie die Sauce aufnehmen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 235 kcal
+- Ballaststoffe: 6 g
+- Protein: 3 g

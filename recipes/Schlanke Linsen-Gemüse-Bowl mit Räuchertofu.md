@@ -39,3 +39,9 @@ Kidneybohnen und den Tofu unterrühren und weitere 3min erhitzen. Mit Salz, Pfef
 Auf vier Portionen aufteilen. Zum Servieren je einen Klecks Magerquark daraufgeben.
 
 Meal Prep: Der Eintopf hält luftdicht im Kühlschrank 3 Tage. Am zweiten Tag einfach mit einem Schuss Wasser in Topf oder Mikrowelle erhitzen — er schmeckt durchgezogen sogar intensiver. Den Magerquark erst frisch dazugeben.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 440 kcal
+- Ballaststoffe: 14 g
+- Protein: 32 g

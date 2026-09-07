@@ -22,3 +22,9 @@ Dann einfach alle Zutaten zusammenmischen.
 
 10 Minuten ruhen lassen.
 Mit geölten Händen kleine Klößchen formen und in kochendem Wasser solange schwimmen lassen bis sie nach oben steigen.
+
+## Nährwerte (pro Portion, 4 Portionen)
+
+- Kalorien: 350 kcal
+- Ballaststoffe: 2 g
+- Protein: 5 g

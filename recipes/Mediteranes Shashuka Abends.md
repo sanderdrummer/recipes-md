@@ -19,3 +19,9 @@ für 1 Person
 4. Mit einem Löffel zwei Mulden in die Tomatensauce drücken und die Eier vorsichtig hineinschlagen.
 5. Einen Deckel auf die Pfanne setzen und bei niedriger bis mittlerer Hitze ca. 5–8 Minuten garen, bis das Eiweiß fest, der Dotter aber noch leicht flüssig ist.
 6. Mit frischer Petersilie bestreut servieren.
+
+## Nährwerte (pro Portion, 1 Portion)
+
+- Kalorien: 360 kcal
+- Ballaststoffe: 7 g
+- Protein: 18 g

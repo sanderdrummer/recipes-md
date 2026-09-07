@@ -30,3 +30,9 @@ Wenn die Nudeln fertig gekocht sind, gießt man sie ab und gibt sie zusammen mit
 Als Topping bereitet man geröstete Semmelbrösel/Paniermehl oder Panko zu. Dazu bringt man 30 g Butter in einer heißen Pfanne zum Schmelzen und röstet das Paniermehl bei mittlerer Hitze darin an. Eine Knoblauchzehe wird zusätzlich in das Paniermehl gepresst. Der Knoblauch sorgt später für einen tollen Duft und ausgewogenen Geschmack. Das Paniermehl wird etwa 3 Minuten unter ständigem Rühren angeröstet. Dabei sollte es leicht gebräunt werden. Das geröstete Paniermehl wird anschliessend gleichmäßig auf den KäseMakkaroni verteilt (aber erst kurz bevor die Pfanne in den Grill oder Backofen kommt).
 
 Im vorgeheizten Grill oder Backofen wird das Mac and Cheese bei 180 Grad Celsius etwa 35 Minuten gebacken, bis es leicht anfängt zu blubbern und die Oberfläche goldbraun wird. Anschliessend in der Gusseisenpfanne warm servieren und genießen!
+
+## Nährwerte (pro Portion, 6 Portionen)
+
+- Kalorien: 925 kcal
+- Ballaststoffe: 3 g
+- Protein: 37 g

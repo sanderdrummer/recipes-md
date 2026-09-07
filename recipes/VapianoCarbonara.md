@@ -17,3 +17,9 @@ Mit Sahne ablöschen.
 Eigelb dazu geben. 
 
 Mit Nudeln mischen fertig!
+
+## Nährwerte (pro Portion, 2 Portionen)
+
+- Kalorien: 730 kcal
+- Ballaststoffe: 4 g
+- Protein: 22 g
