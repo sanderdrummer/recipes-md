@@ -19,11 +19,15 @@
 
 ## Zubereitung
 
-1. Die Gemüsebrühe in einem kleinen Topf aufkochen. Den Bulgur einrühren, den Topf vom Herd nehmen und zugedeckt für etwa 10 bis 15 Minuten quellen lassen, bis die Flüssigkeit vollständig aufgesogen ist. Mit einer Gabel auflockern.
-2. Während der Bulgur quillt, die Champignons putzen und vierteln. Die Zucchini längs halbieren und in feine Scheiben schneiden. Die Kirschtomaten ganz lassen.
-3. In einer großen Pfanne das Olivenöl erhitzen. Die Pilze und die Zucchini darin scharf anbraten, bis sie leicht gebräunt sind.
-4. Die Kirschtomaten und den getrockneten Oregano hinzugeben. Alles mit der Sojasauce und dem Balsamico-Essig ablöschen. Die Hitze reduzieren und das Gemüse etwa 8 bis 10 Minuten sanft schmoren lassen. Die Tomaten sollen leicht aufplatzen und sich mit dem Essig und der Sojasauce zu einem süßlich-herzhaften Sud verbinden.
-5. Die Hälfte des warmen Bulgurs auf zwei tiefe Teller oder Bowls verteilen. Das geschmorte Umami-Gemüse samt dem leckeren Sud darübergeben und mit frischen Kräutern garnieren. 
+Die Gemüsebrühe in einem kleinen Topf aufkochen. Den Bulgur einrühren, den Topf vom Herd nehmen und zugedeckt für etwa 10 bis 15 Minuten quellen lassen, bis die Flüssigkeit vollständig aufgesogen ist. Mit einer Gabel auflockern.
+
+Während der Bulgur quillt, die Champignons putzen und vierteln. Die Zucchini längs halbieren und in feine Scheiben schneiden. Die Kirschtomaten ganz lassen.
+
+In einer großen Pfanne das Olivenöl erhitzen. Die Pilze und die Zucchini darin scharf anbraten, bis sie leicht gebräunt sind.
+
+Die Kirschtomaten und den getrockneten Oregano hinzugeben. Alles mit der Sojasauce und dem Balsamico-Essig ablöschen. Die Hitze reduzieren und das Gemüse etwa 8 bis 10 Minuten sanft schmoren lassen. Die Tomaten sollen leicht aufplatzen und sich mit dem Essig und der Sojasauce zu einem süßlich-herzhaften Sud verbinden.
+
+Die Hälfte des warmen Bulgurs auf zwei tiefe Teller oder Bowls verteilen. Das geschmorte Umami-Gemüse samt dem leckeren Sud darübergeben und mit frischen Kräutern garnieren. 
 
 **Für den zweiten Tag (Erfrischender Sommer-Bulgursalat):**
 - Den restlichen Bulgur und das restliche Gemüse einfach in einer Tupperdose im Kühlschrank aufbewahren. 

@@ -25,13 +25,15 @@
 
 ## Zubereitung
 
-1. Den Tofu mit Papiertüchern ausdrücken, sodass er Flüssigkeit verliert
-2. mit einem Sparschäler in dünne Streifen schneiden
-3. Tofu marinieren und in einer Pfanne knusprig braten (habt etwas Geduld dabei)
+Den Tofu mit Papiertüchern ausdrücken, sodass er Flüssigkeit verliert
+
+mit einem Sparschäler in dünne Streifen schneiden
+
+Tofu marinieren und in einer Pfanne knusprig braten (habt etwas Geduld dabei)
+
 Den Wrap nach Belieben belegen
 
-Für das Dressing:
-1. Jogurt Ketchup und Gewürze mischen und Kalt stellen
+Für das Dressing: Jogurt Ketchup und Gewürze mischen und Kalt stellen
 
 ## Nährwerte (pro Portion, 2 Portionen)
 

@@ -4,19 +4,19 @@
 
 ## Zutaten
 
-300g Magarine, weich
-270g Zucker
-1Beutel Vanillezucker
-1Rum-Aroma 
-1Prise Salz
-5Ei(er)
-375g Mehl
-12g Backpulver
-3El Milch
-20g Kakao
-20g Zucker
-3El Milch
-Puderzucker
+- 300g Magarine, weich
+- 270g Zucker
+- 1Beutel Vanillezucker
+- 1Rum-Aroma 
+- 1Prise Salz
+- 5Ei(er)
+- 375g Mehl
+- 12g Backpulver
+- 3El Milch
+- 20g Kakao
+- 20g Zucker
+- 3El Milch
+- Puderzucker
 
 ## Zubereitung
 

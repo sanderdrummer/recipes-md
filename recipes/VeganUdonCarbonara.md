@@ -19,12 +19,13 @@
 
 ## Zubereitung
 
-Zutaten:
+Räuchertofu klein würfeln anbraten, bis er Farbe bekommt und dann mit Sojasoße ablöschen. Dann beiseite stellen.
 
-1. Räuchertofu klein würfeln anbraten, bis er Farbe bekommt und dann mit Sojasoße ablöschen. Dann beiseite stellen.
-2. Zwiebel und Knoblauch anbraten dann die Sahne, Hefeflocken, Senf und Salz und Pfeffer dazugeben.
-3. kurz aufkochen, bis die Sauce andickt (nach Belieben noch n Schuss Wasser dazu, wenn's zu dick ist) dann die Udon dazu und gar kochen.
-4. zum Schluss den Räuchertofu, Zitronensaft, Petersilie oder Schnittlauch und wer mag Chili Öl unterheben.
+Zwiebel und Knoblauch anbraten dann die Sahne, Hefeflocken, Senf und Salz und Pfeffer dazugeben.
+
+kurz aufkochen, bis die Sauce andickt (nach Belieben noch n Schuss Wasser dazu, wenn's zu dick ist) dann die Udon dazu und gar kochen.
+
+zum Schluss den Räuchertofu, Zitronensaft, Petersilie oder Schnittlauch und wer mag Chili Öl unterheben.
 
 ## Nährwerte (pro Portion, 2 Portionen)
 

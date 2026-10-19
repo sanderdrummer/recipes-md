@@ -4,11 +4,11 @@
 
 ## Zutaten
 
-- ½ Zwiebel(n), gewürfelte
+- Zwiebel(n), gewürfelte
 - 200ml Sahne
-- ¼Bund Petersilie, gehackte
-  100g Emmentaler, geriebener
-  500g Spätzle, frische, aus dem Kühlregal
+- Bund Petersilie, gehackte
+- 100g Emmentaler, geriebener
+- 500g Spätzle, frische, aus dem Kühlregal
 
 ## Zubereitung
 
